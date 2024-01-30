@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($email == $userData['email'] && password_verify($password, $userData['pw'])) {
 
         
-        $userObject = new User($userData['id'], $userData['nom'], $userData['prenom'], $userData['age'], $userData['email'], $userData['pw']);
+        $userObject = new User($userData['id'], $userData['nom'], $userData['prenom'], $userData['age'], $userData['email'], $userData['pw'], $userData['sexe']);
         $_SESSION['user'] = $userObject;
 
         // Determine if the user is an admin or a client.

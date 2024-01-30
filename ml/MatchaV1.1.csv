@@ -1,0 +1,342 @@
+user_id,age,sexe,nombre_commandes,categories_preferees,commande_id,date_commande,nombre_articles,montant_total,adresse_id,ville,province,pays
+9,1941,M,4,,480,2023-06-09,4,284.00,,,,
+15,2005,F,6,,481,2023-08-04,2,84.00,,,,
+15,2005,F,6,,482,2023-09-05,4,366.00,,,,
+16,1999,M,7,,483,2023-07-03,1,30.00,,,,
+16,1999,M,7,,484,2023-11-30,5,682.00,,,,
+16,1999,M,7,,485,2023-12-12,1,90.00,,,,
+17,1942,M,5,,486,2023-11-16,1,66.00,17.0,Powellchester,Michigan,Kyrgyz Republic
+17,1942,M,5,,487,2023-10-11,2,262.00,17.0,Powellchester,Michigan,Kyrgyz Republic
+17,1942,M,5,,488,2023-07-19,2,327.98,17.0,Powellchester,Michigan,Kyrgyz Republic
+20,1989,F,4,,489,2023-07-15,4,501.00,20.0,Lake Sarah,Tennessee,Moldova
+21,1960,F,15,,490,2023-08-13,5,531.00,21.0,Burnsburgh,New Jersey,Swaziland
+21,1960,F,15,,491,2023-03-04,5,936.00,21.0,Burnsburgh,New Jersey,Swaziland
+21,1960,F,15,,492,2023-05-27,2,227.00,21.0,Burnsburgh,New Jersey,Swaziland
+21,1960,F,15,,493,2023-09-30,3,195.00,21.0,Burnsburgh,New Jersey,Swaziland
+22,1931,M,6,,494,2023-12-03,1,15.00,22.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+22,1931,M,6,,495,2023-09-27,3,520.98,22.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+22,1931,M,6,,496,2023-11-27,2,296.00,22.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+23,1968,F,1,,497,2023-09-28,1,36.00,23.0,Lake Billyview,South Dakota,British Virgin Islands
+24,1985,M,9,,498,2023-09-22,4,557.00,24.0,North Lorrainechester,Tennessee,Austria
+24,1985,M,9,,499,2023-10-15,2,33.00,24.0,North Lorrainechester,Tennessee,Austria
+24,1985,M,9,,500,2023-11-30,3,327.00,24.0,North Lorrainechester,Tennessee,Austria
+25,1994,F,11,,501,2023-07-08,5,541.00,25.0,Lyonsside,Nevada,Cote d'Ivoire
+25,1994,F,11,,502,2023-04-13,2,216.00,25.0,Lyonsside,Nevada,Cote d'Ivoire
+25,1994,F,11,,503,2023-01-08,4,334.00,25.0,Lyonsside,Nevada,Cote d'Ivoire
+26,1983,M,13,,504,2023-02-25,2,89.00,26.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+26,1983,M,13,,505,2023-06-21,1,261.00,26.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+26,1983,M,13,,506,2023-05-14,5,1161.00,26.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+26,1983,M,13,,507,2023-06-29,5,685.00,26.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+27,1952,M,5,,508,2023-02-07,5,334.00,27.0,South Yolandachester,California,Armenia
+28,1933,M,11,,509,2023-08-28,3,212.00,28.0,Port Jacobberg,Montana,Brunei Darussalam
+28,1933,M,11,,510,2023-10-10,1,102.00,28.0,Port Jacobberg,Montana,Brunei Darussalam
+28,1933,M,11,,511,2023-05-31,1,14.00,28.0,Port Jacobberg,Montana,Brunei Darussalam
+28,1933,M,11,,512,2023-07-08,3,354.00,28.0,Port Jacobberg,Montana,Brunei Darussalam
+28,1933,M,11,,513,2023-04-29,3,268.00,28.0,Port Jacobberg,Montana,Brunei Darussalam
+29,2006,M,19,,514,2023-11-26,4,355.00,29.0,North Scott,Arkansas,Saudi Arabia
+29,2006,M,19,,515,2023-11-22,1,72.00,29.0,North Scott,Arkansas,Saudi Arabia
+29,2006,M,19,,516,2023-07-29,5,526.00,29.0,North Scott,Arkansas,Saudi Arabia
+29,2006,M,19,,517,2023-11-29,5,422.00,29.0,North Scott,Arkansas,Saudi Arabia
+29,2006,M,19,,518,2023-08-19,4,180.00,29.0,North Scott,Arkansas,Saudi Arabia
+30,1972,M,2,,519,2023-10-23,2,352.00,30.0,Sherryburgh,New Jersey,Lesotho
+31,1955,F,4,,520,2023-06-23,3,229.00,31.0,East Jason,Michigan,Switzerland
+31,1955,F,4,,521,2023-10-07,1,196.00,31.0,East Jason,Michigan,Switzerland
+32,1978,F,11,,522,2023-06-07,2,249.00,32.0,Cassandraport,Alaska,Oman
+32,1978,F,11,,523,2023-06-21,5,628.00,32.0,Cassandraport,Alaska,Oman
+32,1978,F,11,,524,2023-12-13,4,522.00,32.0,Cassandraport,Alaska,Oman
+33,1983,M,13,,525,2023-08-14,1,26.00,33.0,Lake Michael,Missouri,Greenland
+33,1983,M,13,,526,2023-06-20,2,36.00,33.0,Lake Michael,Missouri,Greenland
+33,1983,M,13,,527,2023-06-09,5,707.00,33.0,Lake Michael,Missouri,Greenland
+33,1983,M,13,,528,2023-01-03,5,890.00,33.0,Lake Michael,Missouri,Greenland
+34,1983,M,3,,529,2023-05-10,3,106.00,34.0,Roseland,Illinois,Liechtenstein
+35,1959,F,11,,530,2023-09-14,3,296.00,35.0,Henryville,Missouri,Mayotte
+35,1959,F,11,,531,2023-09-04,1,36.00,35.0,Henryville,Missouri,Mayotte
+35,1959,F,11,,532,2023-05-17,1,399.98,35.0,Henryville,Missouri,Mayotte
+35,1959,F,11,,533,2023-03-16,1,82.00,35.0,Henryville,Missouri,Mayotte
+35,1959,F,11,,534,2023-08-12,5,431.00,35.0,Henryville,Missouri,Mayotte
+36,1978,F,8,,535,2023-08-01,2,202.00,36.0,East Ian,Illinois,Vietnam
+36,1978,F,8,,536,2023-03-06,1,17.00,36.0,East Ian,Illinois,Vietnam
+36,1978,F,8,,537,2023-09-13,5,573.00,36.0,East Ian,Illinois,Vietnam
+37,1981,F,16,,538,2023-01-14,3,217.00,37.0,Barrymouth,Arkansas,Congo
+37,1981,F,16,,539,2023-08-01,5,537.00,37.0,Barrymouth,Arkansas,Congo
+37,1981,F,16,,540,2023-08-14,5,574.00,37.0,Barrymouth,Arkansas,Congo
+37,1981,F,16,,541,2023-10-10,3,129.00,37.0,Barrymouth,Arkansas,Congo
+38,1967,M,3,,542,2023-07-08,1,56.00,38.0,South Lisa,Oklahoma,Switzerland
+38,1967,M,3,,543,2023-10-14,2,99.00,38.0,South Lisa,Oklahoma,Switzerland
+39,1961,M,6,,544,2023-03-26,5,414.00,39.0,Jonathanbury,Minnesota,Algeria
+39,1961,M,6,,545,2023-06-18,1,26.00,39.0,Jonathanbury,Minnesota,Algeria
+40,1997,F,18,,546,2023-01-13,4,723.00,40.0,North Deborah,Kansas,Madagascar
+40,1997,F,18,,547,2023-05-21,4,466.00,40.0,North Deborah,Kansas,Madagascar
+40,1997,F,18,,548,2023-06-19,4,279.00,40.0,North Deborah,Kansas,Madagascar
+40,1997,F,18,,549,2023-09-30,3,289.00,40.0,North Deborah,Kansas,Madagascar
+40,1997,F,18,,550,2023-04-06,3,131.00,40.0,North Deborah,Kansas,Madagascar
+41,1934,F,21,,551,2023-10-29,2,289.00,41.0,Lindastad,New Hampshire,Brazil
+41,1934,F,21,,552,2023-05-15,5,659.00,41.0,Lindastad,New Hampshire,Brazil
+41,1934,F,21,,553,2023-04-06,4,400.00,41.0,Lindastad,New Hampshire,Brazil
+41,1934,F,21,,554,2023-11-11,5,640.00,41.0,Lindastad,New Hampshire,Brazil
+41,1934,F,21,,555,2023-07-01,5,367.00,41.0,Lindastad,New Hampshire,Brazil
+42,1940,M,1,,556,2023-05-28,1,3.00,42.0,South Anthony,Rhode Island,Liechtenstein
+43,1955,M,8,,557,2023-11-04,1,36.00,43.0,Natalieland,Indiana,Jersey
+43,1955,M,8,,558,2023-05-02,3,169.00,43.0,Natalieland,Indiana,Jersey
+43,1955,M,8,,559,2023-05-13,3,489.00,43.0,Natalieland,Indiana,Jersey
+43,1955,M,8,,560,2023-06-26,1,56.00,43.0,Natalieland,Indiana,Jersey
+44,1982,F,21,,561,2023-08-21,4,194.00,44.0,Nicolefort,Vermont,Peru
+44,1982,F,21,,562,2023-08-03,5,243.00,44.0,Nicolefort,Vermont,Peru
+44,1982,F,21,,563,2023-12-30,3,283.00,44.0,Nicolefort,Vermont,Peru
+44,1982,F,21,,564,2023-05-25,4,195.00,44.0,Nicolefort,Vermont,Peru
+44,1982,F,21,,565,2023-12-13,5,423.00,44.0,Nicolefort,Vermont,Peru
+45,1956,F,11,,566,2023-03-21,2,196.00,45.0,East Kimhaven,Colorado,Grenada
+45,1956,F,11,,567,2023-10-22,2,165.00,45.0,East Kimhaven,Colorado,Grenada
+45,1956,F,11,,568,2023-03-28,5,547.00,45.0,East Kimhaven,Colorado,Grenada
+45,1956,F,11,,569,2023-02-20,2,186.00,45.0,East Kimhaven,Colorado,Grenada
+46,1951,M,4,,570,2023-11-23,4,314.00,46.0,Kyleport,Florida,China
+47,1943,F,10,,571,2023-03-08,1,64.00,47.0,Lake Brian,Alaska,Gibraltar
+47,1943,F,10,,572,2023-12-21,2,112.00,47.0,Lake Brian,Alaska,Gibraltar
+47,1943,F,10,,573,2023-01-30,3,419.00,47.0,Lake Brian,Alaska,Gibraltar
+47,1943,F,10,,574,2023-04-13,1,12.00,47.0,Lake Brian,Alaska,Gibraltar
+47,1943,F,10,,575,2023-02-09,3,42.00,47.0,Lake Brian,Alaska,Gibraltar
+48,2000,F,2,,576,2023-02-24,1,87.00,48.0,West Robert,New Mexico,Marshall Islands
+48,2000,F,2,,577,2023-03-13,1,28.00,48.0,West Robert,New Mexico,Marshall Islands
+49,1984,M,11,,578,2023-08-28,4,246.00,49.0,South Taylor,Maryland,Christmas Island
+49,1984,M,11,,579,2023-07-20,2,272.00,49.0,South Taylor,Maryland,Christmas Island
+49,1984,M,11,,580,2023-10-18,4,517.00,49.0,South Taylor,Maryland,Christmas Island
+49,1984,M,11,,581,2023-12-10,1,28.00,49.0,South Taylor,Maryland,Christmas Island
+50,1950,M,15,,582,2023-12-06,4,461.98,50.0,Smithfurt,Florida,Mozambique
+50,1950,M,15,,583,2023-04-02,3,392.00,50.0,Smithfurt,Florida,Mozambique
+50,1950,M,15,,584,2023-12-24,4,808.00,50.0,Smithfurt,Florida,Mozambique
+50,1950,M,15,,585,2023-08-08,3,344.00,50.0,Smithfurt,Florida,Mozambique
+50,1950,M,15,,586,2023-04-22,1,90.00,50.0,Smithfurt,Florida,Mozambique
+51,1991,F,16,,587,2023-06-06,1,78.00,51.0,Carrollbury,Mississippi,Tonga
+51,1991,F,16,,588,2023-01-09,3,539.00,51.0,Carrollbury,Mississippi,Tonga
+51,1991,F,16,,589,2023-12-23,5,395.00,51.0,Carrollbury,Mississippi,Tonga
+51,1991,F,16,,590,2023-06-05,2,353.00,51.0,Carrollbury,Mississippi,Tonga
+51,1991,F,16,,591,2023-11-23,5,601.00,51.0,Carrollbury,Mississippi,Tonga
+52,1948,F,9,,592,2023-12-23,5,458.00,52.0,New Nicholashaven,Nevada,Netherlands Antilles
+52,1948,F,9,,593,2023-03-21,1,49.00,52.0,New Nicholashaven,Nevada,Netherlands Antilles
+52,1948,F,9,,594,2023-04-10,3,209.00,52.0,New Nicholashaven,Nevada,Netherlands Antilles
+53,1953,F,1,,595,2023-09-26,1,195.00,53.0,Jennyside,Tennessee,Burkina Faso
+54,2003,F,7,,596,2023-06-30,2,132.00,54.0,North Robertchester,Oklahoma,Eritrea
+54,2003,F,7,,597,2023-06-23,5,428.00,54.0,North Robertchester,Oklahoma,Eritrea
+55,1926,M,13,,598,2023-04-09,5,570.00,55.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+55,1926,M,13,,599,2023-11-19,3,403.00,55.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+55,1926,M,13,,600,2023-06-02,5,26471.00,55.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+56,1941,F,9,,601,2023-06-21,5,428.00,56.0,Brandonmouth,Colorado,Honduras
+56,1941,F,9,,602,2023-03-25,4,340.00,56.0,Brandonmouth,Colorado,Honduras
+57,1932,F,5,,603,2023-04-26,4,287.00,57.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+57,1932,F,5,,604,2023-04-13,1,69.00,57.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+58,1931,M,10,,605,2023-01-17,2,258.00,58.0,South Donaldland,Maine,Zimbabwe
+58,1931,M,10,,606,2023-09-07,5,467.00,58.0,South Donaldland,Maine,Zimbabwe
+58,1931,M,10,,607,2023-06-26,3,439.00,58.0,South Donaldland,Maine,Zimbabwe
+59,1969,F,17,,608,2023-06-04,5,601.00,59.0,North Joemouth,West Virginia,New Caledonia
+59,1969,F,17,,609,2023-10-04,4,379.00,59.0,North Joemouth,West Virginia,New Caledonia
+59,1969,F,17,,610,2023-07-19,1,182.00,59.0,North Joemouth,West Virginia,New Caledonia
+59,1969,F,17,,611,2023-12-10,4,423.00,59.0,North Joemouth,West Virginia,New Caledonia
+59,1969,F,17,,612,2023-11-08,3,486.00,59.0,North Joemouth,West Virginia,New Caledonia
+60,1950,M,1,,613,2023-02-06,1,22.00,60.0,South Willieton,Ohio,New Caledonia
+61,2002,M,8,,614,2023-08-12,4,295.00,61.0,New Adrianton,Alabama,Saint Lucia
+61,2002,M,8,,615,2023-11-08,2,264.00,61.0,New Adrianton,Alabama,Saint Lucia
+61,2002,M,8,,616,2023-09-22,2,111.00,61.0,New Adrianton,Alabama,Saint Lucia
+62,1995,M,2,,617,2023-11-18,2,143.00,62.0,Franklinport,Utah,Tonga
+63,1929,M,17,,618,2023-01-31,2,285.00,63.0,New Jonathanshire,Tennessee,Micronesia
+63,1929,M,17,,619,2023-10-29,3,391.00,63.0,New Jonathanshire,Tennessee,Micronesia
+63,1929,M,17,,620,2023-05-31,5,582.00,63.0,New Jonathanshire,Tennessee,Micronesia
+63,1929,M,17,,621,2023-12-24,3,163.00,63.0,New Jonathanshire,Tennessee,Micronesia
+63,1929,M,17,,622,2023-08-23,4,634.00,63.0,New Jonathanshire,Tennessee,Micronesia
+64,1948,F,5,,623,2023-11-18,5,682.64,64.0,West Joycefurt,Georgia,Slovenia
+65,1968,F,4,,624,2023-05-30,1,92.00,65.0,South Ginachester,Tennessee,Bahrain
+65,1968,F,4,,625,2023-07-09,1,180.00,65.0,South Ginachester,Tennessee,Bahrain
+65,1968,F,4,,626,2023-01-05,2,36.00,65.0,South Ginachester,Tennessee,Bahrain
+66,1974,F,11,,627,2023-01-18,1,76.00,66.0,East Sandra,Pennsylvania,Iran
+66,1974,F,11,,628,2023-09-08,2,549.00,66.0,East Sandra,Pennsylvania,Iran
+66,1974,F,11,,629,2023-04-16,3,87.00,66.0,East Sandra,Pennsylvania,Iran
+66,1974,F,11,,630,2023-10-05,5,871.00,66.0,East Sandra,Pennsylvania,Iran
+67,1954,M,8,,631,2023-12-22,5,514.00,67.0,Greenside,Maryland,Jordan
+67,1954,M,8,,632,2023-08-07,3,288.00,67.0,Greenside,Maryland,Jordan
+68,1937,M,17,,633,2023-08-24,5,721.94,68.0,Thomasshire,Oklahoma,Belarus
+68,1937,M,17,,634,2023-02-28,5,607.00,68.0,Thomasshire,Oklahoma,Belarus
+68,1937,M,17,,635,2023-08-26,2,281.00,68.0,Thomasshire,Oklahoma,Belarus
+68,1937,M,17,,636,2023-07-16,5,597.00,68.0,Thomasshire,Oklahoma,Belarus
+69,1937,F,8,,637,2023-09-06,1,186.00,69.0,South Joel,Arkansas,Bahamas
+69,1937,F,8,,638,2023-01-28,2,282.00,69.0,South Joel,Arkansas,Bahamas
+69,1937,F,8,,639,2023-08-14,5,754.00,69.0,South Joel,Arkansas,Bahamas
+70,2006,F,5,,640,2023-09-27,5,644.00,70.0,Brittanymouth,Delaware,Equatorial Guinea
+71,1943,F,12,,641,2023-09-11,2,104.00,71.0,Christophermouth,Washington,Suriname
+71,1943,F,12,,642,2023-07-06,5,588.00,71.0,Christophermouth,Washington,Suriname
+71,1943,F,12,,643,2023-03-31,5,299.00,71.0,Christophermouth,Washington,Suriname
+72,1989,F,3,,644,2023-03-27,3,217.00,72.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+73,1982,F,16,,645,2023-01-22,4,307.00,73.0,New Raymond,New Mexico,India
+73,1982,F,16,,646,2023-01-22,5,466.98,73.0,New Raymond,New Mexico,India
+73,1982,F,16,,647,2023-06-18,3,461.00,73.0,New Raymond,New Mexico,India
+73,1982,F,16,,648,2023-03-14,2,389.00,73.0,New Raymond,New Mexico,India
+73,1982,F,16,,649,2023-07-22,2,436.00,73.0,New Raymond,New Mexico,India
+74,1999,M,17,,650,2023-07-16,4,39187.00,74.0,Melissaborough,Vermont,Ghana
+74,1999,M,17,,651,2023-11-05,5,265.00,74.0,Melissaborough,Vermont,Ghana
+74,1999,M,17,,652,2023-08-14,3,95.00,74.0,Melissaborough,Vermont,Ghana
+74,1999,M,17,,653,2023-01-19,5,453.00,74.0,Melissaborough,Vermont,Ghana
+75,1990,F,4,,654,2023-11-04,1,180.00,75.0,Janemouth,Oklahoma,Hong Kong
+75,1990,F,4,,655,2023-07-01,3,411.00,75.0,Janemouth,Oklahoma,Hong Kong
+76,2006,F,16,,656,2023-01-05,3,402.00,76.0,Lake Ianshire,New York,Aruba
+76,2006,F,16,,657,2023-01-16,3,241.00,76.0,Lake Ianshire,New York,Aruba
+76,2006,F,16,,658,2023-10-26,5,351.00,76.0,Lake Ianshire,New York,Aruba
+76,2006,F,16,,659,2023-07-04,5,575.00,76.0,Lake Ianshire,New York,Aruba
+77,1983,F,5,,660,2023-03-10,5,364.00,77.0,Ryanchester,Texas,Bahrain
+78,2005,M,7,,661,2023-11-13,3,242.00,78.0,North Michele,Nevada,Venezuela
+78,2005,M,7,,662,2023-03-01,4,423.98,78.0,North Michele,Nevada,Venezuela
+79,1951,M,15,,663,2023-04-28,3,112.00,79.0,Troyfurt,Arkansas,Kuwait
+79,1951,M,15,,664,2023-12-18,4,572.00,79.0,Troyfurt,Arkansas,Kuwait
+79,1951,M,15,,665,2023-04-25,4,500.00,79.0,Troyfurt,Arkansas,Kuwait
+79,1951,M,15,,666,2023-11-15,4,230.00,79.0,Troyfurt,Arkansas,Kuwait
+80,1926,M,10,,667,2023-09-06,5,695.00,80.0,Lake Jennamouth,New Mexico,Belarus
+80,1926,M,10,,668,2023-12-26,5,729.00,80.0,Lake Jennamouth,New Mexico,Belarus
+81,1976,F,6,,669,2023-02-22,2,162.00,81.0,Lake Brandonhaven,South Dakota,Iraq
+81,1976,F,6,,670,2023-03-06,2,73.00,81.0,Lake Brandonhaven,South Dakota,Iraq
+81,1976,F,6,,671,2023-06-05,1,110.00,81.0,Lake Brandonhaven,South Dakota,Iraq
+81,1976,F,6,,672,2023-02-06,1,123.00,81.0,Lake Brandonhaven,South Dakota,Iraq
+82,2002,M,16,,673,2023-12-06,2,462.00,82.0,Angelaview,Oregon,Russian Federation
+82,2002,M,16,,674,2023-02-20,3,408.00,82.0,Angelaview,Oregon,Russian Federation
+82,2002,M,16,,675,2023-11-24,5,911.97,82.0,Angelaview,Oregon,Russian Federation
+82,2002,M,16,,676,2023-09-30,1,243.00,82.0,Angelaview,Oregon,Russian Federation
+82,2002,M,16,,677,2023-01-22,5,623.00,82.0,Angelaview,Oregon,Russian Federation
+83,1956,M,3,,678,2023-02-27,2,89.00,83.0,Garciafort,Texas,Lao People's Democratic Republic
+83,1956,M,3,,679,2023-06-24,1,69.00,83.0,Garciafort,Texas,Lao People's Democratic Republic
+84,1961,F,12,,680,2023-09-02,4,459.00,84.0,Rachelmouth,Maine,Sweden
+84,1961,F,12,,681,2023-10-25,3,195.00,84.0,Rachelmouth,Maine,Sweden
+84,1961,F,12,,682,2023-08-09,5,420.00,84.0,Rachelmouth,Maine,Sweden
+85,1934,M,2,,683,2023-11-05,2,80.00,85.0,Biancaborough,Pennsylvania,Burkina Faso
+86,1996,M,4,,684,2023-12-22,4,516.00,86.0,East Corey,New Hampshire,France
+87,2000,M,5,,685,2023-06-01,1,152.00,87.0,New Michael,Oregon,Ecuador
+87,2000,M,5,,686,2023-05-07,1,99.00,87.0,New Michael,Oregon,Ecuador
+87,2000,M,5,,687,2023-12-24,3,298.00,87.0,New Michael,Oregon,Ecuador
+88,1998,M,10,,688,2023-03-16,5,404.00,88.0,North Kristin,New York,American Samoa
+88,1998,M,10,,689,2023-03-05,5,502.99,88.0,North Kristin,New York,American Samoa
+89,1961,M,14,,690,2023-08-05,4,573.00,89.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+89,1961,M,14,,691,2023-05-12,5,399.00,89.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+89,1961,M,14,,692,2023-07-10,5,592.00,89.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+90,1926,F,15,,693,2023-03-25,2,315.00,90.0,Sparksmouth,Washington,San Marino
+90,1926,F,15,,694,2023-11-01,4,442.00,90.0,Sparksmouth,Washington,San Marino
+90,1926,F,15,,695,2023-03-16,5,471.00,90.0,Sparksmouth,Washington,San Marino
+90,1926,F,15,,696,2023-02-08,1,13.00,90.0,Sparksmouth,Washington,San Marino
+90,1926,F,15,,697,2023-03-13,3,531.00,90.0,Sparksmouth,Washington,San Marino
+91,1945,M,14,,698,2023-05-24,1,264.00,91.0,Morsechester,Pennsylvania,Japan
+91,1945,M,14,,699,2023-08-08,2,166.00,91.0,Morsechester,Pennsylvania,Japan
+91,1945,M,14,,700,2023-09-25,4,351.00,91.0,Morsechester,Pennsylvania,Japan
+91,1945,M,14,,701,2023-07-26,3,352.00,91.0,Morsechester,Pennsylvania,Japan
+91,1945,M,14,,702,2023-03-27,4,220.00,91.0,Morsechester,Pennsylvania,Japan
+92,1945,M,11,,703,2023-04-28,3,371.00,92.0,South Eddieton,Idaho,China
+92,1945,M,11,,704,2023-03-03,2,140.00,92.0,South Eddieton,Idaho,China
+92,1945,M,11,,705,2023-05-17,4,542.00,92.0,South Eddieton,Idaho,China
+92,1945,M,11,,706,2023-03-18,2,246.00,92.0,South Eddieton,Idaho,China
+93,1996,M,17,,707,2023-04-14,5,622.00,93.0,Wilkinsonchester,Minnesota,Germany
+93,1996,M,17,,708,2023-04-05,3,480.98,93.0,Wilkinsonchester,Minnesota,Germany
+93,1996,M,17,,709,2023-04-03,2,165.00,93.0,Wilkinsonchester,Minnesota,Germany
+93,1996,M,17,,710,2023-03-12,4,429.00,93.0,Wilkinsonchester,Minnesota,Germany
+93,1996,M,17,,711,2023-04-15,3,285.00,93.0,Wilkinsonchester,Minnesota,Germany
+94,1975,M,14,,712,2023-05-24,3,342.00,94.0,Brandonborough,West Virginia,Chile
+94,1975,M,14,,713,2023-09-04,5,460.00,94.0,Brandonborough,West Virginia,Chile
+94,1975,M,14,,714,2023-11-13,2,141.00,94.0,Brandonborough,West Virginia,Chile
+94,1975,M,14,,715,2023-11-15,4,428.00,94.0,Brandonborough,West Virginia,Chile
+95,1973,F,9,,716,2023-11-30,4,247.00,95.0,Williamsview,Arizona,Niger
+95,1973,F,9,,717,2023-03-22,1,105.00,95.0,Williamsview,Arizona,Niger
+95,1973,F,9,,718,2023-01-08,1,75.00,95.0,Williamsview,Arizona,Niger
+95,1973,F,9,,719,2023-10-13,3,342.00,95.0,Williamsview,Arizona,Niger
+96,1986,M,4,,720,2023-10-02,4,432.00,96.0,East Troyshire,Michigan,Belgium
+97,1948,F,10,,721,2023-06-18,2,658.98,97.0,Port Tylerville,Wisconsin,Ukraine
+97,1948,F,10,,722,2023-09-28,1,196.00,97.0,Port Tylerville,Wisconsin,Ukraine
+97,1948,F,10,,723,2023-01-22,4,343.00,97.0,Port Tylerville,Wisconsin,Ukraine
+97,1948,F,10,,724,2023-06-27,3,297.00,97.0,Port Tylerville,Wisconsin,Ukraine
+98,1955,M,13,,725,2023-02-13,2,222.00,98.0,Lake Julieborough,Montana,Ethiopia
+98,1955,M,13,,726,2023-05-29,1,94.00,98.0,Lake Julieborough,Montana,Ethiopia
+98,1955,M,13,,727,2023-07-29,2,522.00,98.0,Lake Julieborough,Montana,Ethiopia
+98,1955,M,13,,728,2023-10-23,4,513.00,98.0,Lake Julieborough,Montana,Ethiopia
+98,1955,M,13,,729,2023-11-09,4,300.00,98.0,Lake Julieborough,Montana,Ethiopia
+99,2000,F,10,,730,2023-07-02,1,88.00,99.0,Kevinland,Iowa,Antigua and Barbuda
+99,2000,F,10,,731,2023-01-21,1,65.00,99.0,Kevinland,Iowa,Antigua and Barbuda
+99,2000,F,10,,732,2023-11-21,2,131.00,99.0,Kevinland,Iowa,Antigua and Barbuda
+99,2000,F,10,,733,2023-12-01,3,213.00,99.0,Kevinland,Iowa,Antigua and Barbuda
+99,2000,F,10,,734,2023-02-23,3,96.00,99.0,Kevinland,Iowa,Antigua and Barbuda
+100,1987,M,9,,735,2023-06-30,2,126.00,100.0,Nelsonchester,South Carolina,Togo
+100,1987,M,9,,736,2023-06-24,3,328.00,100.0,Nelsonchester,South Carolina,Togo
+100,1987,M,9,,737,2023-08-02,1,28.00,100.0,Nelsonchester,South Carolina,Togo
+100,1987,M,9,,738,2023-08-11,3,183.00,100.0,Nelsonchester,South Carolina,Togo
+101,1976,M,9,,739,2023-06-23,4,239.00,101.0,Martinezberg,North Dakota,Bolivia
+101,1976,M,9,,740,2023-02-10,5,565.00,101.0,Martinezberg,North Dakota,Bolivia
+102,1979,M,5,,741,2023-05-05,2,350.00,102.0,Brownfurt,Rhode Island,Slovakia (Slovak Republic)
+102,1979,M,5,,742,2023-09-12,3,407.00,102.0,Brownfurt,Rhode Island,Slovakia (Slovak Republic)
+103,1973,F,11,,743,2023-06-12,3,211.00,103.0,Stevensfurt,Virginia,Guam
+103,1973,F,11,,744,2023-06-18,3,266.00,103.0,Stevensfurt,Virginia,Guam
+103,1973,F,11,,745,2023-08-13,4,601.00,103.0,Stevensfurt,Virginia,Guam
+103,1973,F,11,,746,2023-11-19,1,165.00,103.0,Stevensfurt,Virginia,Guam
+104,1969,M,3,,747,2023-10-17,3,250.00,104.0,Johnsontown,Arizona,Somalia
+105,2006,M,3,,748,2023-10-04,3,150.00,105.0,Smithport,Nebraska,United Kingdom
+106,1997,F,7,,749,2023-07-01,3,413.00,106.0,Jonesborough,New Hampshire,Slovenia
+106,1997,F,7,,750,2023-10-26,1,237.00,106.0,Jonesborough,New Hampshire,Slovenia
+106,1997,F,7,,751,2023-10-11,2,143.00,106.0,Jonesborough,New Hampshire,Slovenia
+106,1997,F,7,,752,2023-02-14,1,72.00,106.0,Jonesborough,New Hampshire,Slovenia
+107,1956,M,13,,753,2023-10-30,5,444.00,107.0,West Lisa,Alaska,Jersey
+107,1956,M,13,,754,2023-10-10,2,220.00,107.0,West Lisa,Alaska,Jersey
+107,1956,M,13,,755,2023-07-09,3,465.98,107.0,West Lisa,Alaska,Jersey
+107,1956,M,13,,756,2023-10-04,2,233.00,107.0,West Lisa,Alaska,Jersey
+107,1956,M,13,,757,2023-11-14,1,171.00,107.0,West Lisa,Alaska,Jersey
+108,2002,M,16,,758,2023-03-18,3,421.00,108.0,West Katherinehaven,Utah,Guinea
+108,2002,M,16,,759,2023-10-24,5,331.00,108.0,West Katherinehaven,Utah,Guinea
+108,2002,M,16,,760,2023-07-27,3,446.00,108.0,West Katherinehaven,Utah,Guinea
+108,2002,M,16,,761,2023-06-20,5,310.00,108.0,West Katherinehaven,Utah,Guinea
+109,1968,F,12,,762,2023-01-22,1,150.00,109.0,Evelynhaven,Michigan,Paraguay
+109,1968,F,12,,763,2023-09-18,5,503.00,109.0,Evelynhaven,Michigan,Paraguay
+109,1968,F,12,,764,2023-06-02,2,186.00,109.0,Evelynhaven,Michigan,Paraguay
+109,1968,F,12,,765,2023-04-10,4,646.00,109.0,Evelynhaven,Michigan,Paraguay
+110,1936,M,3,,766,2023-01-14,3,286.00,110.0,New Tanya,Washington,Chile
+111,2001,F,14,,767,2023-08-18,3,522.00,111.0,North Lorifurt,New Hampshire,Colombia
+111,2001,F,14,,768,2023-07-06,4,373.00,111.0,North Lorifurt,New Hampshire,Colombia
+111,2001,F,14,,769,2023-02-14,4,555.00,111.0,North Lorifurt,New Hampshire,Colombia
+111,2001,F,14,,770,2023-06-24,3,316.00,111.0,North Lorifurt,New Hampshire,Colombia
+112,1990,F,8,,771,2023-05-21,2,234.00,112.0,North Carol,Michigan,Oman
+112,1990,F,8,,772,2023-06-15,2,167.00,112.0,North Carol,Michigan,Oman
+112,1990,F,8,,773,2023-07-02,4,704.94,112.0,North Carol,Michigan,Oman
+113,1972,M,6,,774,2023-12-11,1,1.00,113.0,Lake Dawn,Louisiana,Martinique
+113,1972,M,6,,775,2023-01-24,5,436.64,113.0,Lake Dawn,Louisiana,Martinique
+114,2000,F,11,,776,2023-04-22,5,734.00,114.0,Taylortown,Oregon,San Marino
+114,2000,F,11,,777,2023-01-09,3,298.94,114.0,Taylortown,Oregon,San Marino
+114,2000,F,11,,778,2023-06-16,3,240.00,114.0,Taylortown,Oregon,San Marino
+115,1973,F,4,,779,2023-06-06,2,352.00,115.0,Madisonmouth,Georgia,Portugal
+115,1973,F,4,,780,2023-04-05,2,275.00,115.0,Madisonmouth,Georgia,Portugal
+116,1955,M,5,,781,2023-06-14,4,510.00,116.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+116,1955,M,5,,782,2023-12-01,1,88.00,116.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+117,2000,F,13,,783,2023-03-25,4,485.00,,,,
+117,2000,F,13,,784,2023-05-30,3,459.00,,,,
+117,2000,F,13,,785,2023-06-29,2,91.00,,,,
+117,2000,F,13,,786,2023-04-23,2,195.00,,,,
+117,2000,F,13,,787,2023-10-09,2,78.00,,,,
+118,1982,M,14,,788,2023-09-13,4,373.00,,,,
+118,1982,M,14,,789,2023-08-09,3,506.00,,,,
+118,1982,M,14,,790,2023-12-23,5,288.00,,,,
+118,1982,M,14,,791,2023-11-21,2,270.00,,,,
+119,1933,M,3,,792,2023-06-08,3,309.00,,,,
+120,1976,M,13,,793,2023-04-19,4,641.00,,,,
+120,1976,M,13,,794,2023-07-16,2,133.00,,,,
+120,1976,M,13,,795,2023-06-19,1,20.00,,,,
+120,1976,M,13,,796,2023-04-01,4,573.00,,,,
+120,1976,M,13,,797,2023-08-01,2,119.00,,,,
+121,1980,F,11,,798,2023-11-27,1,82.00,,,,
+121,1980,F,11,,799,2023-10-04,1,82.00,,,,
+121,1980,F,11,,800,2023-02-08,3,635.00,,,,
+121,1980,F,11,,801,2023-11-24,3,326.00,,,,
+121,1980,F,11,,802,2023-01-20,3,302.00,,,,
+122,1996,M,17,,803,2023-01-09,2,89.00,,,,
+122,1996,M,17,,804,2023-09-20,5,39608.00,,,,
+122,1996,M,17,,805,2023-02-11,5,265.00,,,,
+122,1996,M,17,,806,2023-01-01,5,740.00,,,,
+123,1942,F,17,,807,2023-06-03,5,304.00,,,,
+123,1942,F,17,,808,2023-11-15,2,108.00,,,,
+123,1942,F,17,,809,2023-07-14,5,732.00,,,,
+123,1942,F,17,,810,2023-09-01,1,124.00,,,,
+123,1942,F,17,,811,2023-08-04,4,478.00,,,,
+124,1983,F,15,,812,2023-09-02,4,329.00,,,,
+124,1983,F,15,,813,2023-06-24,5,405.00,,,,
+124,1983,F,15,,814,2023-09-06,2,153.98,,,,
+124,1983,F,15,,815,2023-12-11,4,399.00,,,,
+125,1998,M,15,,816,2023-04-02,3,297.00,,,,
+125,1998,M,15,,817,2023-02-21,1,49.00,,,,
+125,1998,M,15,,818,2023-03-13,3,241.00,,,,
+125,1998,M,15,,819,2023-07-29,5,348.00,,,,
+125,1998,M,15,,820,2023-06-21,3,283.00,,,,

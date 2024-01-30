@@ -1,27 +1,20 @@
 import mysql.connector
 from faker import Faker
+from sql import get_cursor
 
-def get_cursor():
-    connection = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="MatCha"
-    )
-    return connection.cursor(buffered=True), connection
 
 def insert_data():
     cursor, connection = get_cursor()
     faker = Faker()
 
-    for _ in range(100):
+    for _ in range(400):
         # Génération des données du client
         nom = faker.last_name()
         prenom = faker.first_name()
         email = faker.email()
         password = '123'  # Mot de passe fixe pour les tests
         telephone = faker.phone_number()
-        age = faker.random_int(min=18, max=99) 
+        age = faker.random_int(min=1925, max=2006) 
 
         # Insertion du client dans la table `user`
         user_query = """

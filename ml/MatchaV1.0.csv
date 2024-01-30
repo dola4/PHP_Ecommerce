@@ -1,0 +1,111 @@
+user_id,age,sexe,nombre_commandes,categories_preferees,commande_id,date_commande,nombre_articles,montant_total,adresse_id,ville,province,pays
+9,1941,M,4,,,,,,,,,
+15,2005,F,6,,,,,,,,,
+16,1999,M,7,,,,,,,,,
+17,1942,M,5,,,,,,17.0,Powellchester,Michigan,Kyrgyz Republic
+20,1989,F,4,,,,,,20.0,Lake Sarah,Tennessee,Moldova
+21,1960,F,15,,,,,,21.0,Burnsburgh,New Jersey,Swaziland
+22,1931,M,6,,,,,,22.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+23,1968,F,1,,,,,,23.0,Lake Billyview,South Dakota,British Virgin Islands
+24,1985,M,9,,,,,,24.0,North Lorrainechester,Tennessee,Austria
+25,1994,F,11,,,,,,25.0,Lyonsside,Nevada,Cote d'Ivoire
+26,1983,M,13,,,,,,26.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+27,1952,M,5,,,,,,27.0,South Yolandachester,California,Armenia
+28,1933,M,11,,,,,,28.0,Port Jacobberg,Montana,Brunei Darussalam
+29,2006,M,19,,,,,,29.0,North Scott,Arkansas,Saudi Arabia
+30,1972,M,2,,,,,,30.0,Sherryburgh,New Jersey,Lesotho
+31,1955,F,4,,,,,,31.0,East Jason,Michigan,Switzerland
+32,1978,F,11,,,,,,32.0,Cassandraport,Alaska,Oman
+33,1983,M,13,,,,,,33.0,Lake Michael,Missouri,Greenland
+34,1983,M,3,,,,,,34.0,Roseland,Illinois,Liechtenstein
+35,1959,F,11,,,,,,35.0,Henryville,Missouri,Mayotte
+36,1978,F,8,,,,,,36.0,East Ian,Illinois,Vietnam
+37,1981,F,16,,,,,,37.0,Barrymouth,Arkansas,Congo
+38,1967,M,3,,,,,,38.0,South Lisa,Oklahoma,Switzerland
+39,1961,M,6,,,,,,39.0,Jonathanbury,Minnesota,Algeria
+40,1997,F,18,,,,,,40.0,North Deborah,Kansas,Madagascar
+41,1934,F,21,,,,,,41.0,Lindastad,New Hampshire,Brazil
+42,1940,M,1,,,,,,42.0,South Anthony,Rhode Island,Liechtenstein
+43,1955,M,8,,,,,,43.0,Natalieland,Indiana,Jersey
+44,1982,F,21,,,,,,44.0,Nicolefort,Vermont,Peru
+45,1956,F,11,,,,,,45.0,East Kimhaven,Colorado,Grenada
+46,1951,M,4,,,,,,46.0,Kyleport,Florida,China
+47,1943,F,10,,,,,,47.0,Lake Brian,Alaska,Gibraltar
+48,2000,F,2,,,,,,48.0,West Robert,New Mexico,Marshall Islands
+49,1984,M,11,,,,,,49.0,South Taylor,Maryland,Christmas Island
+50,1950,M,15,,,,,,50.0,Smithfurt,Florida,Mozambique
+51,1991,F,16,,,,,,51.0,Carrollbury,Mississippi,Tonga
+52,1948,F,9,,,,,,52.0,New Nicholashaven,Nevada,Netherlands Antilles
+53,1953,F,1,,,,,,53.0,Jennyside,Tennessee,Burkina Faso
+54,2003,F,7,,,,,,54.0,North Robertchester,Oklahoma,Eritrea
+55,1926,M,13,,,,,,55.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+56,1941,F,9,,,,,,56.0,Brandonmouth,Colorado,Honduras
+57,1932,F,5,,,,,,57.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+58,1931,M,10,,,,,,58.0,South Donaldland,Maine,Zimbabwe
+59,1969,F,17,,,,,,59.0,North Joemouth,West Virginia,New Caledonia
+60,1950,M,1,,,,,,60.0,South Willieton,Ohio,New Caledonia
+61,2002,M,8,,,,,,61.0,New Adrianton,Alabama,Saint Lucia
+62,1995,M,2,,,,,,62.0,Franklinport,Utah,Tonga
+63,1929,M,17,,,,,,63.0,New Jonathanshire,Tennessee,Micronesia
+64,1948,F,5,,,,,,64.0,West Joycefurt,Georgia,Slovenia
+65,1968,F,4,,,,,,65.0,South Ginachester,Tennessee,Bahrain
+66,1974,F,11,,,,,,66.0,East Sandra,Pennsylvania,Iran
+67,1954,M,8,,,,,,67.0,Greenside,Maryland,Jordan
+68,1937,M,17,,,,,,68.0,Thomasshire,Oklahoma,Belarus
+69,1937,F,8,,,,,,69.0,South Joel,Arkansas,Bahamas
+70,2006,F,5,,,,,,70.0,Brittanymouth,Delaware,Equatorial Guinea
+71,1943,F,12,,,,,,71.0,Christophermouth,Washington,Suriname
+72,1989,F,3,,,,,,72.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+73,1982,F,16,,,,,,73.0,New Raymond,New Mexico,India
+74,1999,M,17,,,,,,74.0,Melissaborough,Vermont,Ghana
+75,1990,F,4,,,,,,75.0,Janemouth,Oklahoma,Hong Kong
+76,2006,F,16,,,,,,76.0,Lake Ianshire,New York,Aruba
+77,1983,F,5,,,,,,77.0,Ryanchester,Texas,Bahrain
+78,2005,M,7,,,,,,78.0,North Michele,Nevada,Venezuela
+79,1951,M,15,,,,,,79.0,Troyfurt,Arkansas,Kuwait
+80,1926,M,10,,,,,,80.0,Lake Jennamouth,New Mexico,Belarus
+81,1976,F,6,,,,,,81.0,Lake Brandonhaven,South Dakota,Iraq
+82,2002,M,16,,,,,,82.0,Angelaview,Oregon,Russian Federation
+83,1956,M,3,,,,,,83.0,Garciafort,Texas,Lao People's Democratic Republic
+84,1961,F,12,,,,,,84.0,Rachelmouth,Maine,Sweden
+85,1934,M,2,,,,,,85.0,Biancaborough,Pennsylvania,Burkina Faso
+86,1996,M,4,,,,,,86.0,East Corey,New Hampshire,France
+87,2000,M,5,,,,,,87.0,New Michael,Oregon,Ecuador
+88,1998,M,10,,,,,,88.0,North Kristin,New York,American Samoa
+89,1961,M,14,,,,,,89.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+90,1926,F,15,,,,,,90.0,Sparksmouth,Washington,San Marino
+91,1945,M,14,,,,,,91.0,Morsechester,Pennsylvania,Japan
+92,1945,M,11,,,,,,92.0,South Eddieton,Idaho,China
+93,1996,M,17,,,,,,93.0,Wilkinsonchester,Minnesota,Germany
+94,1975,M,14,,,,,,94.0,Brandonborough,West Virginia,Chile
+95,1973,F,9,,,,,,95.0,Williamsview,Arizona,Niger
+96,1986,M,4,,,,,,96.0,East Troyshire,Michigan,Belgium
+97,1948,F,10,,,,,,97.0,Port Tylerville,Wisconsin,Ukraine
+98,1955,M,13,,,,,,98.0,Lake Julieborough,Montana,Ethiopia
+99,2000,F,10,,,,,,99.0,Kevinland,Iowa,Antigua and Barbuda
+100,1987,M,9,,,,,,100.0,Nelsonchester,South Carolina,Togo
+101,1976,M,9,,,,,,101.0,Martinezberg,North Dakota,Bolivia
+102,1979,M,5,,,,,,102.0,Brownfurt,Rhode Island,Slovakia (Slovak Republic)
+103,1973,F,11,,,,,,103.0,Stevensfurt,Virginia,Guam
+104,1969,M,3,,,,,,104.0,Johnsontown,Arizona,Somalia
+105,2006,M,3,,,,,,105.0,Smithport,Nebraska,United Kingdom
+106,1997,F,7,,,,,,106.0,Jonesborough,New Hampshire,Slovenia
+107,1956,M,13,,,,,,107.0,West Lisa,Alaska,Jersey
+108,2002,M,16,,,,,,108.0,West Katherinehaven,Utah,Guinea
+109,1968,F,12,,,,,,109.0,Evelynhaven,Michigan,Paraguay
+110,1936,M,3,,,,,,110.0,New Tanya,Washington,Chile
+111,2001,F,14,,,,,,111.0,North Lorifurt,New Hampshire,Colombia
+112,1990,F,8,,,,,,112.0,North Carol,Michigan,Oman
+113,1972,M,6,,,,,,113.0,Lake Dawn,Louisiana,Martinique
+114,2000,F,11,,,,,,114.0,Taylortown,Oregon,San Marino
+115,1973,F,4,,,,,,115.0,Madisonmouth,Georgia,Portugal
+116,1955,M,5,,,,,,116.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+117,2000,F,13,,,,,,,,,
+118,1982,M,14,,,,,,,,,
+119,1933,M,3,,,,,,,,,
+120,1976,M,13,,,,,,,,,
+121,1980,F,11,,,,,,,,,
+122,1996,M,17,,,,,,,,,
+123,1942,F,17,,,,,,,,,
+124,1983,F,15,,,,,,,,,
+125,1998,M,15,,,,,,,,,

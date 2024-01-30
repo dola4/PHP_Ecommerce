@@ -1,0 +1,59 @@
+Matthieu Marandola
+PROGRAMMEUR ANALYSTE / DÉVELOPPEUR FULL STACK 
+
+E-mail : matthieu.marandola.mm@gmail.com
+Téléphone : (514) 214-8292
+Date de Naissance : 18 février 1990
+GitHub : github.com/dola4
+
+Compétences
+•	Python 
+o	Intelligence Artificielle
+	Création d’un chat-GPT 
+	Extraction de caractéristiques d’images
+	Analyse exploratoire de données
+	Machine learning / prédictions
+
+o	Flask
+	Application de gestion de statistiques de hockey 
+	Conception d’API
+
+o	Django
+
+•	PHP
+o	Création de site de e-commerce
+
+•	React JS
+o	Création d’une application de blog
+
+•	Javascript
+o	Création d’une application de météo
+o	Implémentation de script front-end
+o	Node.js
+
+•	C#
+o	Asp.net
+
+•	Java
+o	Android Studio
+
+•	Base de Données
+o	MongoDB
+o	SQLite
+o	SQL Server
+o	Transfert de données MongoDB en SQL
+o	Création d’un agent de synchronisation entre base de données MongoDB et SQL
+Études
+•	Programmation Web et Mobile, D.E.C.  Informatique de Gestion	                         (09 – 2021 à Présent) 
+Institut Teccart, Montréal
+•	Camionneur, permis classe 1					                                           (03 – 2019)
+Montréal
+•	Soudure, D.E.P. Soudage-Montage				                                     (03 – 2011 à 06 – 2012)
+École de formation Professionnelle centre Anjou, Montréal
+Langues
+•	Français – Langue maternelle
+•	Anglais – Fonctionnel
+Centre d’intérêt
+•	Documentaire
+•	Sport
+•	Plein-Air

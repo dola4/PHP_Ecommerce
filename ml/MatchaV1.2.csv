@@ -1,0 +1,1040 @@
+user_id,age,sexe_user,id_commande,date_commande,saison,id_categorie,id_sport,id_equipement,equipement_prix,montant_total,ville,province,pays
+29,2006,M,515,2023-11-22,Automne,,5,136,36.0,72.0,Powellchester,Michigan,Kyrgyz Republic
+40,1997,F,547,2023-05-21,Printemps,,5,146,68.0,204.0,Powellchester,Michigan,Kyrgyz Republic
+40,1997,F,547,2023-05-21,Printemps,,20,588,84.0,168.0,Powellchester,Michigan,Kyrgyz Republic
+40,1997,F,547,2023-05-21,Printemps,,22,649,71.0,71.0,Powellchester,Michigan,Kyrgyz Republic
+40,1997,F,547,2023-05-21,Printemps,,24,703,23.0,23.0,Powellchester,Michigan,Kyrgyz Republic
+55,1926,M,598,2023-04-09,Printemps,,6,172,87.0,174.0,Powellchester,Michigan,Kyrgyz Republic
+55,1926,M,598,2023-04-09,Printemps,,10,305,46.0,138.0,Powellchester,Michigan,Kyrgyz Republic
+55,1926,M,598,2023-04-09,Printemps,,14,409,88.0,88.0,Powellchester,Michigan,Kyrgyz Republic
+55,1926,M,598,2023-04-09,Printemps,,18,530,35.0,70.0,Powellchester,Michigan,Kyrgyz Republic
+55,1926,M,598,2023-04-09,Printemps,,25,747,50.0,100.0,Powellchester,Michigan,Kyrgyz Republic
+56,1941,F,601,2023-06-21,Été,,2,55,49.0,98.0,Powellchester,Michigan,Kyrgyz Republic
+56,1941,F,601,2023-06-21,Été,,3,79,84.0,84.0,Powellchester,Michigan,Kyrgyz Republic
+56,1941,F,601,2023-06-21,Été,,4,105,41.0,123.0,Powellchester,Michigan,Kyrgyz Republic
+56,1941,F,601,2023-06-21,Été,,8,245,68.0,68.0,Powellchester,Michigan,Kyrgyz Republic
+56,1941,F,601,2023-06-21,Été,,20,592,55.0,55.0,Powellchester,Michigan,Kyrgyz Republic
+74,1999,M,650,2023-07-16,Été,,3,32,12998.0,38994.0,Powellchester,Michigan,Kyrgyz Republic
+74,1999,M,650,2023-07-16,Été,,20,599,28.0,84.0,Powellchester,Michigan,Kyrgyz Republic
+74,1999,M,650,2023-07-16,Été,,22,652,43.0,43.0,Powellchester,Michigan,Kyrgyz Republic
+74,1999,M,650,2023-07-16,Été,,22,660,33.0,66.0,Powellchester,Michigan,Kyrgyz Republic
+83,1956,M,678,2023-02-27,Hiver,,14,414,43.0,86.0,Powellchester,Michigan,Kyrgyz Republic
+83,1956,M,678,2023-02-27,Hiver,,20,579,1.0,3.0,Powellchester,Michigan,Kyrgyz Republic
+59,1969,F,608,2023-06-04,Été,,3,71,63.0,189.0,New Daleport,Wisconsin,Serbia
+59,1969,F,608,2023-06-04,Été,,4,119,66.0,66.0,New Daleport,Wisconsin,Serbia
+59,1969,F,608,2023-06-04,Été,,17,497,35.0,105.0,New Daleport,Wisconsin,Serbia
+59,1969,F,608,2023-06-04,Été,,18,531,35.0,105.0,New Daleport,Wisconsin,Serbia
+59,1969,F,608,2023-06-04,Été,,23,670,68.0,136.0,New Daleport,Wisconsin,Serbia
+66,1974,F,629,2023-04-16,Printemps,,8,227,0.0,0.0,New Daleport,Wisconsin,Serbia
+66,1974,F,629,2023-04-16,Printemps,,14,418,65.0,65.0,New Daleport,Wisconsin,Serbia
+66,1974,F,629,2023-04-16,Printemps,,22,655,22.0,22.0,New Daleport,Wisconsin,Serbia
+94,1975,M,712,2023-05-24,Printemps,,16,470,26.0,78.0,New Daleport,Wisconsin,Serbia
+94,1975,M,712,2023-05-24,Printemps,,17,515,50.0,150.0,New Daleport,Wisconsin,Serbia
+94,1975,M,712,2023-05-24,Printemps,,19,566,38.0,114.0,New Daleport,Wisconsin,Serbia
+103,1973,F,743,2023-06-12,Été,,8,238,61.0,183.0,New Daleport,Wisconsin,Serbia
+103,1973,F,743,2023-06-12,Été,,10,283,4.0,4.0,New Daleport,Wisconsin,Serbia
+103,1973,F,743,2023-06-12,Été,,11,317,24.0,24.0,New Daleport,Wisconsin,Serbia
+82,2002,M,676,2023-09-30,Automne,,5,145,81.0,243.0,New Teresashire,Louisiana,Congo
+88,1998,M,689,2023-03-05,Printemps,,4,36,198.99,198.99,New Teresashire,Louisiana,Congo
+88,1998,M,689,2023-03-05,Printemps,,3,98,16.0,48.0,New Teresashire,Louisiana,Congo
+88,1998,M,689,2023-03-05,Printemps,,8,220,47.0,94.0,New Teresashire,Louisiana,Congo
+88,1998,M,689,2023-03-05,Printemps,,12,365,57.0,114.0,New Teresashire,Louisiana,Congo
+88,1998,M,689,2023-03-05,Printemps,,24,718,16.0,48.0,New Teresashire,Louisiana,Congo
+102,1979,M,742,2023-09-12,Automne,,3,80,63.0,189.0,New Teresashire,Louisiana,Congo
+102,1979,M,742,2023-09-12,Automne,,5,130,58.0,174.0,New Teresashire,Louisiana,Congo
+102,1979,M,742,2023-09-12,Automne,,16,483,22.0,44.0,New Teresashire,Louisiana,Congo
+47,1943,F,573,2023-01-30,Hiver,,19,554,98.0,196.0,Lake Sarah,Tennessee,Moldova
+47,1943,F,573,2023-01-30,Hiver,,23,672,59.0,177.0,Lake Sarah,Tennessee,Moldova
+47,1943,F,573,2023-01-30,Hiver,,25,744,23.0,46.0,Lake Sarah,Tennessee,Moldova
+93,1996,M,707,2023-04-14,Printemps,,3,78,52.0,156.0,Lake Sarah,Tennessee,Moldova
+93,1996,M,707,2023-04-14,Printemps,,20,580,46.0,138.0,Lake Sarah,Tennessee,Moldova
+93,1996,M,707,2023-04-14,Printemps,,21,636,36.0,72.0,Lake Sarah,Tennessee,Moldova
+93,1996,M,707,2023-04-14,Printemps,,21,637,80.0,240.0,Lake Sarah,Tennessee,Moldova
+93,1996,M,707,2023-04-14,Printemps,,22,658,16.0,16.0,Lake Sarah,Tennessee,Moldova
+33,1983,M,528,2023-01-03,Hiver,,2,65,70.0,210.0,Burnsburgh,New Jersey,Swaziland
+33,1983,M,528,2023-01-03,Hiver,,14,399,98.0,196.0,Burnsburgh,New Jersey,Swaziland
+33,1983,M,528,2023-01-03,Hiver,,17,510,55.0,110.0,Burnsburgh,New Jersey,Swaziland
+33,1983,M,528,2023-01-03,Hiver,,21,637,80.0,240.0,Burnsburgh,New Jersey,Swaziland
+33,1983,M,528,2023-01-03,Hiver,,23,690,67.0,134.0,Burnsburgh,New Jersey,Swaziland
+95,1973,F,716,2023-11-30,Automne,,4,105,41.0,41.0,Burnsburgh,New Jersey,Swaziland
+95,1973,F,716,2023-11-30,Automne,,5,152,79.0,79.0,Burnsburgh,New Jersey,Swaziland
+95,1973,F,716,2023-11-30,Automne,,18,523,21.0,21.0,Burnsburgh,New Jersey,Swaziland
+95,1973,F,716,2023-11-30,Automne,,21,629,53.0,106.0,Burnsburgh,New Jersey,Swaziland
+21,1960,F,490,2023-08-13,Été,,9,270,22.0,66.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+21,1960,F,490,2023-08-13,Été,,12,365,57.0,171.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+21,1960,F,490,2023-08-13,Été,,12,367,5.0,15.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+21,1960,F,490,2023-08-13,Été,,17,499,66.0,198.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+21,1960,F,490,2023-08-13,Été,,20,584,27.0,81.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+29,2006,M,516,2023-07-29,Été,,4,128,98.0,196.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+29,2006,M,516,2023-07-29,Été,,6,188,46.0,46.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+29,2006,M,516,2023-07-29,Été,,7,218,43.0,86.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+29,2006,M,516,2023-07-29,Été,,16,469,33.0,66.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+29,2006,M,516,2023-07-29,Été,,25,745,66.0,132.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+50,1950,M,583,2023-04-02,Printemps,,4,117,82.0,246.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+50,1950,M,583,2023-04-02,Printemps,,15,445,44.0,88.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+50,1950,M,583,2023-04-02,Printemps,,15,454,29.0,58.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+59,1969,F,611,2023-12-10,Hiver,,10,294,88.0,88.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+59,1969,F,611,2023-12-10,Hiver,,17,511,21.0,63.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+59,1969,F,611,2023-12-10,Hiver,,21,628,86.0,172.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+59,1969,F,611,2023-12-10,Hiver,,25,755,50.0,100.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+81,1976,F,669,2023-02-22,Hiver,,18,530,35.0,105.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+81,1976,F,669,2023-02-22,Hiver,,19,558,57.0,57.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+87,2000,M,685,2023-06-01,Été,,24,720,76.0,152.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+117,2000,F,785,2023-06-29,Été,,7,194,25.0,25.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+117,2000,F,785,2023-06-29,Été,,12,346,33.0,66.0,Allenshire,West Virginia,Libyan Arab Jamahiriya
+26,1983,M,504,2023-02-25,Hiver,,18,532,36.0,72.0,North Lorrainechester,Tennessee,Austria
+26,1983,M,504,2023-02-25,Hiver,,24,725,17.0,17.0,North Lorrainechester,Tennessee,Austria
+73,1982,F,648,2023-03-14,Printemps,,22,664,93.0,279.0,North Lorrainechester,Tennessee,Austria
+73,1982,F,648,2023-03-14,Printemps,,23,671,55.0,110.0,North Lorrainechester,Tennessee,Austria
+71,1943,F,642,2023-07-06,Été,,5,129,64.0,192.0,Lyonsside,Nevada,Cote d'Ivoire
+71,1943,F,642,2023-07-06,Été,,7,210,36.0,36.0,Lyonsside,Nevada,Cote d'Ivoire
+71,1943,F,642,2023-07-06,Été,,16,459,67.0,201.0,Lyonsside,Nevada,Cote d'Ivoire
+71,1943,F,642,2023-07-06,Été,,19,569,38.0,76.0,Lyonsside,Nevada,Cote d'Ivoire
+71,1943,F,642,2023-07-06,Été,,21,623,83.0,83.0,Lyonsside,Nevada,Cote d'Ivoire
+72,1989,F,644,2023-03-27,Printemps,,15,449,22.0,22.0,Lyonsside,Nevada,Cote d'Ivoire
+72,1989,F,644,2023-03-27,Printemps,,17,491,45.0,135.0,Lyonsside,Nevada,Cote d'Ivoire
+72,1989,F,644,2023-03-27,Printemps,,25,738,60.0,60.0,Lyonsside,Nevada,Cote d'Ivoire
+90,1926,F,694,2023-11-01,Automne,,2,41,44.0,88.0,Lyonsside,Nevada,Cote d'Ivoire
+90,1926,F,694,2023-11-01,Automne,,2,60,84.0,84.0,Lyonsside,Nevada,Cote d'Ivoire
+90,1926,F,694,2023-11-01,Automne,,10,279,78.0,156.0,Lyonsside,Nevada,Cote d'Ivoire
+90,1926,F,694,2023-11-01,Automne,,24,716,57.0,114.0,Lyonsside,Nevada,Cote d'Ivoire
+121,1980,F,800,2023-02-08,Hiver,,2,64,98.0,196.0,Lyonsside,Nevada,Cote d'Ivoire
+121,1980,F,800,2023-02-08,Hiver,,6,185,83.0,166.0,Lyonsside,Nevada,Cote d'Ivoire
+121,1980,F,800,2023-02-08,Hiver,,7,206,91.0,273.0,Lyonsside,Nevada,Cote d'Ivoire
+59,1969,F,612,2023-11-08,Automne,,5,152,79.0,158.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+59,1969,F,612,2023-11-08,Automne,,6,169,49.0,49.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+59,1969,F,612,2023-11-08,Automne,,13,374,93.0,279.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+90,1926,F,695,2023-03-16,Printemps,,3,70,53.0,53.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+90,1926,F,695,2023-03-16,Printemps,,19,576,7.0,21.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+90,1926,F,695,2023-03-16,Printemps,,20,594,50.0,100.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+90,1926,F,695,2023-03-16,Printemps,,21,609,45.0,90.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+90,1926,F,695,2023-03-16,Printemps,,21,621,69.0,207.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+102,1979,M,741,2023-05-05,Printemps,,25,750,91.0,182.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+102,1979,M,741,2023-05-05,Printemps,,25,754,84.0,168.0,Louisport,South Carolina,Bouvet Island (Bouvetoya)
+41,1934,F,553,2023-04-06,Printemps,,3,70,53.0,106.0,South Yolandachester,California,Armenia
+41,1934,F,553,2023-04-06,Printemps,,12,342,60.0,60.0,South Yolandachester,California,Armenia
+41,1934,F,553,2023-04-06,Printemps,,16,467,24.0,48.0,South Yolandachester,California,Armenia
+41,1934,F,553,2023-04-06,Printemps,,22,664,93.0,186.0,South Yolandachester,California,Armenia
+117,2000,F,787,2023-10-09,Automne,,17,508,6.0,12.0,South Yolandachester,California,Armenia
+117,2000,F,787,2023-10-09,Automne,,23,691,22.0,66.0,South Yolandachester,California,Armenia
+120,1976,M,796,2023-04-01,Printemps,,3,72,85.0,255.0,South Yolandachester,California,Armenia
+120,1976,M,796,2023-04-01,Printemps,,3,95,60.0,120.0,South Yolandachester,California,Armenia
+120,1976,M,796,2023-04-01,Printemps,,4,112,66.0,198.0,South Yolandachester,California,Armenia
+120,1976,M,796,2023-04-01,Printemps,,8,227,0.0,0.0,South Yolandachester,California,Armenia
+68,1937,M,634,2023-02-28,Hiver,,4,109,62.0,186.0,Port Jacobberg,Montana,Brunei Darussalam
+68,1937,M,634,2023-02-28,Hiver,,4,116,40.0,40.0,Port Jacobberg,Montana,Brunei Darussalam
+68,1937,M,634,2023-02-28,Hiver,,9,252,9.0,18.0,Port Jacobberg,Montana,Brunei Darussalam
+68,1937,M,634,2023-02-28,Hiver,,9,254,58.0,174.0,Port Jacobberg,Montana,Brunei Darussalam
+68,1937,M,634,2023-02-28,Hiver,,17,514,63.0,189.0,Port Jacobberg,Montana,Brunei Darussalam
+36,1978,F,537,2023-09-13,Automne,,9,268,88.0,88.0,North Scott,Arkansas,Saudi Arabia
+36,1978,F,537,2023-09-13,Automne,,11,318,2.0,2.0,North Scott,Arkansas,Saudi Arabia
+36,1978,F,537,2023-09-13,Automne,,12,352,66.0,198.0,North Scott,Arkansas,Saudi Arabia
+36,1978,F,537,2023-09-13,Automne,,12,354,57.0,114.0,North Scott,Arkansas,Saudi Arabia
+36,1978,F,537,2023-09-13,Automne,,23,678,57.0,171.0,North Scott,Arkansas,Saudi Arabia
+67,1954,M,632,2023-08-07,Été,,3,78,52.0,52.0,North Scott,Arkansas,Saudi Arabia
+67,1954,M,632,2023-08-07,Été,,4,100,57.0,171.0,North Scott,Arkansas,Saudi Arabia
+67,1954,M,632,2023-08-07,Été,,15,443,65.0,65.0,North Scott,Arkansas,Saudi Arabia
+120,1976,M,797,2023-08-01,Été,,4,112,66.0,66.0,North Scott,Arkansas,Saudi Arabia
+120,1976,M,797,2023-08-01,Été,,6,163,53.0,53.0,North Scott,Arkansas,Saudi Arabia
+121,1980,F,799,2023-10-04,Automne,,13,387,41.0,82.0,North Scott,Arkansas,Saudi Arabia
+22,1931,M,494,2023-12-03,Hiver,,14,423,5.0,15.0,Sherryburgh,New Jersey,Lesotho
+43,1955,M,558,2023-05-02,Printemps,,9,272,84.0,84.0,East Jason,Michigan,Switzerland
+43,1955,M,558,2023-05-02,Printemps,,17,511,21.0,63.0,East Jason,Michigan,Switzerland
+43,1955,M,558,2023-05-02,Printemps,,18,529,11.0,22.0,East Jason,Michigan,Switzerland
+26,1983,M,505,2023-06-21,Été,,6,172,87.0,261.0,Cassandraport,Alaska,Oman
+58,1931,M,605,2023-01-17,Hiver,,3,74,87.0,174.0,Cassandraport,Alaska,Oman
+58,1931,M,605,2023-01-17,Hiver,,25,751,84.0,84.0,Cassandraport,Alaska,Oman
+74,1999,M,653,2023-01-19,Hiver,,7,193,35.0,35.0,Cassandraport,Alaska,Oman
+74,1999,M,653,2023-01-19,Hiver,,8,247,33.0,99.0,Cassandraport,Alaska,Oman
+74,1999,M,653,2023-01-19,Hiver,,9,269,42.0,84.0,Cassandraport,Alaska,Oman
+74,1999,M,653,2023-01-19,Hiver,,20,601,97.0,194.0,Cassandraport,Alaska,Oman
+74,1999,M,653,2023-01-19,Hiver,,22,654,41.0,41.0,Cassandraport,Alaska,Oman
+79,1951,M,663,2023-04-28,Printemps,,8,234,20.0,40.0,Cassandraport,Alaska,Oman
+79,1951,M,663,2023-04-28,Printemps,,12,345,16.0,16.0,Cassandraport,Alaska,Oman
+79,1951,M,663,2023-04-28,Printemps,,19,555,28.0,56.0,Cassandraport,Alaska,Oman
+84,1961,F,682,2023-08-09,Été,,8,228,21.0,63.0,Cassandraport,Alaska,Oman
+84,1961,F,682,2023-08-09,Été,,10,284,24.0,24.0,Cassandraport,Alaska,Oman
+84,1961,F,682,2023-08-09,Été,,12,356,23.0,69.0,Cassandraport,Alaska,Oman
+84,1961,F,682,2023-08-09,Été,,19,568,79.0,237.0,Cassandraport,Alaska,Oman
+84,1961,F,682,2023-08-09,Été,,20,591,27.0,27.0,Cassandraport,Alaska,Oman
+125,1998,M,819,2023-07-29,Été,,5,136,36.0,36.0,Cassandraport,Alaska,Oman
+125,1998,M,819,2023-07-29,Été,,6,182,43.0,129.0,Cassandraport,Alaska,Oman
+125,1998,M,819,2023-07-29,Été,,7,193,35.0,70.0,Cassandraport,Alaska,Oman
+125,1998,M,819,2023-07-29,Été,,19,553,27.0,27.0,Cassandraport,Alaska,Oman
+125,1998,M,819,2023-07-29,Été,,21,628,86.0,86.0,Cassandraport,Alaska,Oman
+40,1997,F,550,2023-04-06,Printemps,,5,136,36.0,36.0,Lake Michael,Missouri,Greenland
+40,1997,F,550,2023-04-06,Printemps,,10,289,56.0,56.0,Lake Michael,Missouri,Greenland
+40,1997,F,550,2023-04-06,Printemps,,19,552,13.0,39.0,Lake Michael,Missouri,Greenland
+64,1948,F,623,2023-11-18,Automne,,2,37,78.88,236.64,Lake Michael,Missouri,Greenland
+64,1948,F,623,2023-11-18,Automne,,11,310,57.0,171.0,Lake Michael,Missouri,Greenland
+64,1948,F,623,2023-11-18,Automne,,16,461,79.0,158.0,Lake Michael,Missouri,Greenland
+64,1948,F,623,2023-11-18,Automne,,20,601,97.0,97.0,Lake Michael,Missouri,Greenland
+64,1948,F,623,2023-11-18,Automne,,24,726,20.0,20.0,Lake Michael,Missouri,Greenland
+97,1948,F,721,2023-06-18,Été,,4,36,198.99,397.98,Lake Michael,Missouri,Greenland
+97,1948,F,721,2023-06-18,Été,,3,74,87.0,261.0,Lake Michael,Missouri,Greenland
+20,1989,F,489,2023-07-15,Été,,4,107,42.0,126.0,Roseland,Illinois,Liechtenstein
+20,1989,F,489,2023-07-15,Été,,8,244,57.0,114.0,Roseland,Illinois,Liechtenstein
+20,1989,F,489,2023-07-15,Été,,14,405,32.0,96.0,Roseland,Illinois,Liechtenstein
+20,1989,F,489,2023-07-15,Été,,23,671,55.0,165.0,Roseland,Illinois,Liechtenstein
+35,1959,F,534,2023-08-12,Été,,3,71,63.0,126.0,Roseland,Illinois,Liechtenstein
+35,1959,F,534,2023-08-12,Été,,5,155,89.0,178.0,Roseland,Illinois,Liechtenstein
+35,1959,F,534,2023-08-12,Été,,19,561,17.0,17.0,Roseland,Illinois,Liechtenstein
+35,1959,F,534,2023-08-12,Été,,20,596,12.0,24.0,Roseland,Illinois,Liechtenstein
+35,1959,F,534,2023-08-12,Été,,21,628,86.0,86.0,Roseland,Illinois,Liechtenstein
+43,1955,M,557,2023-11-04,Automne,,5,151,12.0,36.0,Roseland,Illinois,Liechtenstein
+48,2000,F,576,2023-02-24,Hiver,,3,74,87.0,87.0,Roseland,Illinois,Liechtenstein
+73,1982,F,646,2023-01-22,Hiver,,4,33,99.98,99.98,Roseland,Illinois,Liechtenstein
+73,1982,F,646,2023-01-22,Hiver,,4,101,74.0,222.0,Roseland,Illinois,Liechtenstein
+73,1982,F,646,2023-01-22,Hiver,,4,117,82.0,82.0,Roseland,Illinois,Liechtenstein
+73,1982,F,646,2023-01-22,Hiver,,5,139,56.0,56.0,Roseland,Illinois,Liechtenstein
+73,1982,F,646,2023-01-22,Hiver,,19,576,7.0,7.0,Roseland,Illinois,Liechtenstein
+87,2000,M,687,2023-12-24,Hiver,,16,483,22.0,22.0,Roseland,Illinois,Liechtenstein
+87,2000,M,687,2023-12-24,Hiver,,19,567,96.0,96.0,Roseland,Illinois,Liechtenstein
+87,2000,M,687,2023-12-24,Hiver,,19,574,60.0,180.0,Roseland,Illinois,Liechtenstein
+109,1968,F,765,2023-04-10,Printemps,,2,56,88.0,264.0,Roseland,Illinois,Liechtenstein
+109,1968,F,765,2023-04-10,Printemps,,6,172,87.0,174.0,Roseland,Illinois,Liechtenstein
+109,1968,F,765,2023-04-10,Printemps,,21,613,71.0,142.0,Roseland,Illinois,Liechtenstein
+109,1968,F,765,2023-04-10,Printemps,,24,710,33.0,66.0,Roseland,Illinois,Liechtenstein
+37,1981,F,539,2023-08-01,Été,,19,554,98.0,294.0,Henryville,Missouri,Mayotte
+37,1981,F,539,2023-08-01,Été,,20,584,27.0,54.0,Henryville,Missouri,Mayotte
+37,1981,F,539,2023-08-01,Été,,20,592,55.0,110.0,Henryville,Missouri,Mayotte
+37,1981,F,539,2023-08-01,Été,,22,647,73.0,73.0,Henryville,Missouri,Mayotte
+37,1981,F,539,2023-08-01,Été,,23,679,6.0,6.0,Henryville,Missouri,Mayotte
+50,1950,M,585,2023-08-08,Été,,5,129,64.0,128.0,Henryville,Missouri,Mayotte
+50,1950,M,585,2023-08-08,Été,,10,284,24.0,24.0,Henryville,Missouri,Mayotte
+50,1950,M,585,2023-08-08,Été,,19,567,96.0,192.0,Henryville,Missouri,Mayotte
+51,1991,F,587,2023-06-06,Été,,18,546,78.0,78.0,Henryville,Missouri,Mayotte
+73,1982,F,647,2023-06-18,Été,,6,174,82.0,82.0,Henryville,Missouri,Mayotte
+73,1982,F,647,2023-06-18,Été,,10,307,71.0,142.0,Henryville,Missouri,Mayotte
+73,1982,F,647,2023-06-18,Été,,24,728,79.0,237.0,Henryville,Missouri,Mayotte
+93,1996,M,710,2023-03-12,Printemps,,2,46,66.0,198.0,Henryville,Missouri,Mayotte
+93,1996,M,710,2023-03-12,Printemps,,16,459,67.0,67.0,Henryville,Missouri,Mayotte
+93,1996,M,710,2023-03-12,Printemps,,21,626,82.0,82.0,Henryville,Missouri,Mayotte
+93,1996,M,710,2023-03-12,Printemps,,22,654,41.0,82.0,Henryville,Missouri,Mayotte
+123,1942,F,807,2023-06-03,Été,,10,288,56.0,112.0,Henryville,Missouri,Mayotte
+123,1942,F,807,2023-06-03,Été,,11,322,44.0,44.0,Henryville,Missouri,Mayotte
+123,1942,F,807,2023-06-03,Été,,12,357,17.0,34.0,Henryville,Missouri,Mayotte
+123,1942,F,807,2023-06-03,Été,,17,511,21.0,42.0,Henryville,Missouri,Mayotte
+123,1942,F,807,2023-06-03,Été,,18,532,36.0,72.0,Henryville,Missouri,Mayotte
+91,1945,M,698,2023-05-24,Printemps,,14,409,88.0,264.0,East Ian,Illinois,Vietnam
+73,1982,F,645,2023-01-22,Hiver,,7,207,92.0,276.0,Barrymouth,Arkansas,Congo
+73,1982,F,645,2023-01-22,Hiver,,16,478,6.0,6.0,Barrymouth,Arkansas,Congo
+73,1982,F,645,2023-01-22,Hiver,,21,616,1.0,3.0,Barrymouth,Arkansas,Congo
+73,1982,F,645,2023-01-22,Hiver,,23,691,22.0,22.0,Barrymouth,Arkansas,Congo
+108,2002,M,759,2023-10-24,Automne,,3,97,25.0,50.0,Barrymouth,Arkansas,Congo
+108,2002,M,759,2023-10-24,Automne,,9,271,26.0,78.0,Barrymouth,Arkansas,Congo
+108,2002,M,759,2023-10-24,Automne,,14,407,33.0,66.0,Barrymouth,Arkansas,Congo
+108,2002,M,759,2023-10-24,Automne,,17,497,35.0,105.0,Barrymouth,Arkansas,Congo
+108,2002,M,759,2023-10-24,Automne,,21,625,32.0,32.0,Barrymouth,Arkansas,Congo
+117,2000,F,786,2023-04-23,Printemps,,12,351,42.0,126.0,Barrymouth,Arkansas,Congo
+117,2000,F,786,2023-04-23,Printemps,,21,621,69.0,69.0,Barrymouth,Arkansas,Congo
+32,1978,F,524,2023-12-13,Hiver,,6,170,56.0,112.0,South Lisa,Oklahoma,Switzerland
+32,1978,F,524,2023-12-13,Hiver,,18,521,22.0,66.0,South Lisa,Oklahoma,Switzerland
+32,1978,F,524,2023-12-13,Hiver,,22,664,93.0,186.0,South Lisa,Oklahoma,Switzerland
+32,1978,F,524,2023-12-13,Hiver,,24,728,79.0,158.0,South Lisa,Oklahoma,Switzerland
+22,1931,M,495,2023-09-27,Automne,,4,36,198.99,397.98,Jonathanbury,Minnesota,Algeria
+22,1931,M,495,2023-09-27,Automne,,16,460,60.0,60.0,Jonathanbury,Minnesota,Algeria
+22,1931,M,495,2023-09-27,Automne,,19,578,21.0,63.0,Jonathanbury,Minnesota,Algeria
+97,1948,F,724,2023-06-27,Été,,5,150,69.0,138.0,Jonathanbury,Minnesota,Algeria
+97,1948,F,724,2023-06-27,Été,,12,341,38.0,76.0,Jonathanbury,Minnesota,Algeria
+97,1948,F,724,2023-06-27,Été,,13,386,83.0,83.0,Jonathanbury,Minnesota,Algeria
+99,2000,F,734,2023-02-23,Hiver,,10,308,33.0,66.0,Jonathanbury,Minnesota,Algeria
+99,2000,F,734,2023-02-23,Hiver,,12,343,9.0,18.0,Jonathanbury,Minnesota,Algeria
+99,2000,F,734,2023-02-23,Hiver,,20,585,6.0,12.0,Jonathanbury,Minnesota,Algeria
+100,1987,M,735,2023-06-30,Été,,20,598,40.0,40.0,Jonathanbury,Minnesota,Algeria
+100,1987,M,735,2023-06-30,Été,,21,628,86.0,86.0,Jonathanbury,Minnesota,Algeria
+124,1983,F,814,2023-09-06,Automne,,4,38,49.99,99.98,Jonathanbury,Minnesota,Algeria
+124,1983,F,814,2023-09-06,Automne,,24,714,54.0,54.0,Jonathanbury,Minnesota,Algeria
+31,1955,F,520,2023-06-23,Été,,17,504,41.0,123.0,North Deborah,Kansas,Madagascar
+31,1955,F,520,2023-06-23,Été,,21,612,37.0,37.0,North Deborah,Kansas,Madagascar
+31,1955,F,520,2023-06-23,Été,,24,708,23.0,69.0,North Deborah,Kansas,Madagascar
+49,1984,M,580,2023-10-18,Automne,,8,219,68.0,68.0,North Deborah,Kansas,Madagascar
+49,1984,M,580,2023-10-18,Automne,,10,287,68.0,68.0,North Deborah,Kansas,Madagascar
+49,1984,M,580,2023-10-18,Automne,,18,543,87.0,261.0,North Deborah,Kansas,Madagascar
+49,1984,M,580,2023-10-18,Automne,,23,683,60.0,120.0,North Deborah,Kansas,Madagascar
+106,1997,F,751,2023-10-11,Automne,,3,90,72.0,72.0,North Deborah,Kansas,Madagascar
+106,1997,F,751,2023-10-11,Automne,,9,277,71.0,71.0,North Deborah,Kansas,Madagascar
+47,1943,F,571,2023-03-08,Printemps,,21,625,32.0,64.0,Lindastad,New Hampshire,Brazil
+62,1995,M,617,2023-11-18,Automne,,16,476,68.0,136.0,Lindastad,New Hampshire,Brazil
+62,1995,M,617,2023-11-18,Automne,,23,695,7.0,7.0,Lindastad,New Hampshire,Brazil
+65,1968,F,624,2023-05-30,Printemps,,21,638,92.0,92.0,Lindastad,New Hampshire,Brazil
+74,1999,M,651,2023-11-05,Automne,,8,224,48.0,96.0,Lindastad,New Hampshire,Brazil
+74,1999,M,651,2023-11-05,Automne,,10,298,6.0,6.0,Lindastad,New Hampshire,Brazil
+74,1999,M,651,2023-11-05,Automne,,13,390,34.0,34.0,Lindastad,New Hampshire,Brazil
+74,1999,M,651,2023-11-05,Automne,,20,597,27.0,27.0,Lindastad,New Hampshire,Brazil
+74,1999,M,651,2023-11-05,Automne,,22,657,34.0,102.0,Lindastad,New Hampshire,Brazil
+99,2000,F,731,2023-01-21,Hiver,,19,564,65.0,65.0,Lindastad,New Hampshire,Brazil
+122,1996,M,805,2023-02-11,Hiver,,6,179,0.0,0.0,Lindastad,New Hampshire,Brazil
+122,1996,M,805,2023-02-11,Hiver,,8,228,21.0,63.0,Lindastad,New Hampshire,Brazil
+122,1996,M,805,2023-02-11,Hiver,,9,257,79.0,79.0,Lindastad,New Hampshire,Brazil
+122,1996,M,805,2023-02-11,Hiver,,20,580,46.0,92.0,Lindastad,New Hampshire,Brazil
+122,1996,M,805,2023-02-11,Hiver,,20,586,31.0,31.0,Lindastad,New Hampshire,Brazil
+122,1996,M,806,2023-01-01,Hiver,,6,181,73.0,146.0,Lindastad,New Hampshire,Brazil
+122,1996,M,806,2023-01-01,Hiver,,7,212,91.0,182.0,Lindastad,New Hampshire,Brazil
+122,1996,M,806,2023-01-01,Hiver,,7,216,72.0,72.0,Lindastad,New Hampshire,Brazil
+122,1996,M,806,2023-01-01,Hiver,,24,722,92.0,184.0,Lindastad,New Hampshire,Brazil
+122,1996,M,806,2023-01-01,Hiver,,25,743,52.0,156.0,Lindastad,New Hampshire,Brazil
+44,1982,F,565,2023-12-13,Hiver,,4,126,21.0,42.0,South Anthony,Rhode Island,Liechtenstein
+44,1982,F,565,2023-12-13,Hiver,,9,259,61.0,61.0,South Anthony,Rhode Island,Liechtenstein
+44,1982,F,565,2023-12-13,Hiver,,13,390,34.0,34.0,South Anthony,Rhode Island,Liechtenstein
+44,1982,F,565,2023-12-13,Hiver,,15,430,86.0,172.0,South Anthony,Rhode Island,Liechtenstein
+44,1982,F,565,2023-12-13,Hiver,,19,558,57.0,114.0,South Anthony,Rhode Island,Liechtenstein
+90,1926,F,693,2023-03-25,Printemps,,16,461,79.0,237.0,South Anthony,Rhode Island,Liechtenstein
+90,1926,F,693,2023-03-25,Printemps,,16,477,78.0,78.0,South Anthony,Rhode Island,Liechtenstein
+25,1994,F,503,2023-01-08,Hiver,,8,223,28.0,28.0,Natalieland,Indiana,Jersey
+25,1994,F,503,2023-01-08,Hiver,,20,601,97.0,194.0,Natalieland,Indiana,Jersey
+25,1994,F,503,2023-01-08,Hiver,,23,681,30.0,30.0,Natalieland,Indiana,Jersey
+25,1994,F,503,2023-01-08,Hiver,,24,701,41.0,82.0,Natalieland,Indiana,Jersey
+27,1952,M,508,2023-02-07,Hiver,,2,49,50.0,50.0,Natalieland,Indiana,Jersey
+27,1952,M,508,2023-02-07,Hiver,,8,219,68.0,136.0,Natalieland,Indiana,Jersey
+27,1952,M,508,2023-02-07,Hiver,,10,295,3.0,6.0,Natalieland,Indiana,Jersey
+27,1952,M,508,2023-02-07,Hiver,,17,492,16.0,32.0,Natalieland,Indiana,Jersey
+27,1952,M,508,2023-02-07,Hiver,,18,526,55.0,110.0,Natalieland,Indiana,Jersey
+29,2006,M,518,2023-08-19,Été,,7,218,43.0,43.0,Natalieland,Indiana,Jersey
+29,2006,M,518,2023-08-19,Été,,14,424,28.0,28.0,Natalieland,Indiana,Jersey
+29,2006,M,518,2023-08-19,Été,,17,492,16.0,32.0,Natalieland,Indiana,Jersey
+29,2006,M,518,2023-08-19,Été,,22,661,77.0,77.0,Natalieland,Indiana,Jersey
+114,2000,F,776,2023-04-22,Printemps,,3,74,87.0,87.0,Natalieland,Indiana,Jersey
+114,2000,F,776,2023-04-22,Printemps,,4,128,98.0,196.0,Natalieland,Indiana,Jersey
+114,2000,F,776,2023-04-22,Printemps,,6,181,73.0,219.0,Natalieland,Indiana,Jersey
+114,2000,F,776,2023-04-22,Printemps,,8,219,68.0,136.0,Natalieland,Indiana,Jersey
+114,2000,F,776,2023-04-22,Printemps,,19,550,96.0,96.0,Natalieland,Indiana,Jersey
+118,1982,M,791,2023-11-21,Automne,,10,298,6.0,18.0,Natalieland,Indiana,Jersey
+118,1982,M,791,2023-11-21,Automne,,10,306,84.0,252.0,Natalieland,Indiana,Jersey
+123,1942,F,811,2023-08-04,Été,,12,352,66.0,132.0,Natalieland,Indiana,Jersey
+123,1942,F,811,2023-08-04,Été,,19,576,7.0,7.0,Natalieland,Indiana,Jersey
+123,1942,F,811,2023-08-04,Été,,21,636,36.0,72.0,Natalieland,Indiana,Jersey
+123,1942,F,811,2023-08-04,Été,,23,692,89.0,267.0,Natalieland,Indiana,Jersey
+38,1967,M,542,2023-07-08,Été,,20,599,28.0,56.0,Nicolefort,Vermont,Peru
+63,1929,M,619,2023-10-29,Automne,,12,362,50.0,150.0,Nicolefort,Vermont,Peru
+63,1929,M,619,2023-10-29,Automne,,16,476,68.0,204.0,Nicolefort,Vermont,Peru
+63,1929,M,619,2023-10-29,Automne,,25,741,37.0,37.0,Nicolefort,Vermont,Peru
+36,1978,F,535,2023-08-01,Été,,13,389,26.0,52.0,East Kimhaven,Colorado,Grenada
+36,1978,F,535,2023-08-01,Été,,18,536,75.0,150.0,East Kimhaven,Colorado,Grenada
+92,1945,M,703,2023-04-28,Printemps,,6,188,46.0,138.0,East Kimhaven,Colorado,Grenada
+92,1945,M,703,2023-04-28,Printemps,,23,670,68.0,68.0,East Kimhaven,Colorado,Grenada
+92,1945,M,703,2023-04-28,Printemps,,23,671,55.0,165.0,East Kimhaven,Colorado,Grenada
+98,1955,M,729,2023-11-09,Automne,,5,154,16.0,16.0,East Kimhaven,Colorado,Grenada
+98,1955,M,729,2023-11-09,Automne,,11,331,45.0,45.0,East Kimhaven,Colorado,Grenada
+98,1955,M,729,2023-11-09,Automne,,15,452,59.0,59.0,East Kimhaven,Colorado,Grenada
+98,1955,M,729,2023-11-09,Automne,,19,574,60.0,180.0,East Kimhaven,Colorado,Grenada
+33,1983,M,526,2023-06-20,Été,,16,481,2.0,2.0,Kyleport,Florida,China
+33,1983,M,526,2023-06-20,Été,,22,657,34.0,34.0,Kyleport,Florida,China
+51,1991,F,591,2023-11-23,Automne,,7,218,43.0,129.0,Kyleport,Florida,China
+51,1991,F,591,2023-11-23,Automne,,16,460,60.0,180.0,Kyleport,Florida,China
+51,1991,F,591,2023-11-23,Automne,,17,516,64.0,64.0,Kyleport,Florida,China
+51,1991,F,591,2023-11-23,Automne,,19,570,59.0,177.0,Kyleport,Florida,China
+51,1991,F,591,2023-11-23,Automne,,21,617,17.0,51.0,Kyleport,Florida,China
+111,2001,F,768,2023-07-06,Été,,18,531,35.0,70.0,Kyleport,Florida,China
+111,2001,F,768,2023-07-06,Été,,19,561,17.0,17.0,Kyleport,Florida,China
+111,2001,F,768,2023-07-06,Été,,21,637,80.0,240.0,Kyleport,Florida,China
+111,2001,F,768,2023-07-06,Été,,24,703,23.0,46.0,Kyleport,Florida,China
+25,1994,F,501,2023-07-08,Été,,4,112,66.0,198.0,Lake Brian,Alaska,Gibraltar
+25,1994,F,501,2023-07-08,Été,,7,193,35.0,35.0,Lake Brian,Alaska,Gibraltar
+25,1994,F,501,2023-07-08,Été,,14,399,98.0,98.0,Lake Brian,Alaska,Gibraltar
+25,1994,F,501,2023-07-08,Été,,14,421,83.0,166.0,Lake Brian,Alaska,Gibraltar
+25,1994,F,501,2023-07-08,Été,,24,727,44.0,44.0,Lake Brian,Alaska,Gibraltar
+37,1981,F,540,2023-08-14,Été,,15,449,22.0,44.0,Lake Brian,Alaska,Gibraltar
+37,1981,F,540,2023-08-14,Été,,20,579,1.0,1.0,Lake Brian,Alaska,Gibraltar
+37,1981,F,540,2023-08-14,Été,,20,583,59.0,118.0,Lake Brian,Alaska,Gibraltar
+37,1981,F,540,2023-08-14,Été,,24,715,77.0,231.0,Lake Brian,Alaska,Gibraltar
+37,1981,F,540,2023-08-14,Été,,25,738,60.0,180.0,Lake Brian,Alaska,Gibraltar
+86,1996,M,684,2023-12-22,Hiver,,2,63,90.0,270.0,Lake Brian,Alaska,Gibraltar
+86,1996,M,684,2023-12-22,Hiver,,8,245,68.0,136.0,Lake Brian,Alaska,Gibraltar
+86,1996,M,684,2023-12-22,Hiver,,18,520,30.0,60.0,Lake Brian,Alaska,Gibraltar
+86,1996,M,684,2023-12-22,Hiver,,20,594,50.0,50.0,Lake Brian,Alaska,Gibraltar
+95,1973,F,717,2023-03-22,Printemps,,3,92,35.0,105.0,Lake Brian,Alaska,Gibraltar
+118,1982,M,788,2023-09-13,Automne,,9,255,59.0,177.0,Lake Brian,Alaska,Gibraltar
+118,1982,M,788,2023-09-13,Automne,,9,268,88.0,88.0,Lake Brian,Alaska,Gibraltar
+118,1982,M,788,2023-09-13,Automne,,14,415,3.0,9.0,Lake Brian,Alaska,Gibraltar
+118,1982,M,788,2023-09-13,Automne,,17,509,33.0,99.0,Lake Brian,Alaska,Gibraltar
+21,1960,F,493,2023-09-30,Automne,,3,79,84.0,84.0,West Robert,New Mexico,Marshall Islands
+21,1960,F,493,2023-09-30,Automne,,11,316,99.0,99.0,West Robert,New Mexico,Marshall Islands
+21,1960,F,493,2023-09-30,Automne,,17,498,4.0,12.0,West Robert,New Mexico,Marshall Islands
+25,1994,F,502,2023-04-13,Printemps,,18,525,39.0,117.0,West Robert,New Mexico,Marshall Islands
+25,1994,F,502,2023-04-13,Printemps,,19,565,33.0,99.0,West Robert,New Mexico,Marshall Islands
+28,1933,M,513,2023-04-29,Printemps,,8,244,57.0,171.0,West Robert,New Mexico,Marshall Islands
+28,1933,M,513,2023-04-29,Printemps,,11,318,2.0,4.0,West Robert,New Mexico,Marshall Islands
+28,1933,M,513,2023-04-29,Printemps,,13,374,93.0,93.0,West Robert,New Mexico,Marshall Islands
+35,1959,F,532,2023-05-17,Printemps,,2,26,199.99,399.98,West Robert,New Mexico,Marshall Islands
+47,1943,F,572,2023-12-21,Hiver,,13,392,11.0,22.0,West Robert,New Mexico,Marshall Islands
+47,1943,F,572,2023-12-21,Hiver,,21,609,45.0,90.0,West Robert,New Mexico,Marshall Islands
+59,1969,F,609,2023-10-04,Automne,,3,91,45.0,45.0,West Robert,New Mexico,Marshall Islands
+59,1969,F,609,2023-10-04,Automne,,4,111,94.0,94.0,West Robert,New Mexico,Marshall Islands
+59,1969,F,609,2023-10-04,Automne,,9,264,69.0,138.0,West Robert,New Mexico,Marshall Islands
+59,1969,F,609,2023-10-04,Automne,,20,593,51.0,102.0,West Robert,New Mexico,Marshall Islands
+63,1929,M,621,2023-12-24,Hiver,,13,372,44.0,44.0,West Robert,New Mexico,Marshall Islands
+63,1929,M,621,2023-12-24,Hiver,,21,632,71.0,71.0,West Robert,New Mexico,Marshall Islands
+63,1929,M,621,2023-12-24,Hiver,,25,736,48.0,48.0,West Robert,New Mexico,Marshall Islands
+82,2002,M,675,2023-11-24,Automne,,2,26,199.99,599.97,West Robert,New Mexico,Marshall Islands
+82,2002,M,675,2023-11-24,Automne,,12,353,40.0,120.0,West Robert,New Mexico,Marshall Islands
+82,2002,M,675,2023-11-24,Automne,,14,419,76.0,152.0,West Robert,New Mexico,Marshall Islands
+82,2002,M,675,2023-11-24,Automne,,16,463,39.0,39.0,West Robert,New Mexico,Marshall Islands
+82,2002,M,675,2023-11-24,Automne,,22,641,1.0,1.0,West Robert,New Mexico,Marshall Islands
+91,1945,M,699,2023-08-08,Été,,12,354,57.0,114.0,West Robert,New Mexico,Marshall Islands
+91,1945,M,699,2023-08-08,Été,,13,389,26.0,52.0,West Robert,New Mexico,Marshall Islands
+94,1975,M,714,2023-11-13,Automne,,13,370,14.0,42.0,West Robert,New Mexico,Marshall Islands
+94,1975,M,714,2023-11-13,Automne,,22,645,99.0,99.0,West Robert,New Mexico,Marshall Islands
+103,1973,F,746,2023-11-19,Automne,,23,671,55.0,165.0,West Robert,New Mexico,Marshall Islands
+41,1934,F,554,2023-11-11,Automne,,3,75,35.0,70.0,South Taylor,Maryland,Christmas Island
+41,1934,F,554,2023-11-11,Automne,,4,128,98.0,98.0,South Taylor,Maryland,Christmas Island
+41,1934,F,554,2023-11-11,Automne,,16,462,75.0,150.0,South Taylor,Maryland,Christmas Island
+41,1934,F,554,2023-11-11,Automne,,19,549,87.0,261.0,South Taylor,Maryland,Christmas Island
+41,1934,F,554,2023-11-11,Automne,,23,674,61.0,61.0,South Taylor,Maryland,Christmas Island
+66,1974,F,628,2023-09-08,Automne,,4,111,94.0,282.0,South Taylor,Maryland,Christmas Island
+66,1974,F,628,2023-09-08,Automne,,5,155,89.0,267.0,South Taylor,Maryland,Christmas Island
+78,2005,M,661,2023-11-13,Automne,,8,238,61.0,122.0,South Taylor,Maryland,Christmas Island
+78,2005,M,661,2023-11-13,Automne,,11,314,27.0,54.0,South Taylor,Maryland,Christmas Island
+78,2005,M,661,2023-11-13,Automne,,23,691,22.0,66.0,South Taylor,Maryland,Christmas Island
+81,1976,F,671,2023-06-05,Été,,15,451,55.0,110.0,South Taylor,Maryland,Christmas Island
+121,1980,F,802,2023-01-20,Hiver,,14,415,3.0,3.0,Smithfurt,Florida,Mozambique
+121,1980,F,802,2023-01-20,Hiver,,15,448,63.0,189.0,Smithfurt,Florida,Mozambique
+121,1980,F,802,2023-01-20,Hiver,,17,510,55.0,110.0,Smithfurt,Florida,Mozambique
+9,1941,M,480,2023-06-09,Été,,3,71,63.0,126.0,Carrollbury,Mississippi,Tonga
+9,1941,M,480,2023-06-09,Été,,7,201,86.0,86.0,Carrollbury,Mississippi,Tonga
+9,1941,M,480,2023-06-09,Été,,11,331,45.0,45.0,Carrollbury,Mississippi,Tonga
+9,1941,M,480,2023-06-09,Été,,22,659,9.0,27.0,Carrollbury,Mississippi,Tonga
+35,1959,F,533,2023-03-16,Printemps,,13,387,41.0,82.0,Carrollbury,Mississippi,Tonga
+99,2000,F,730,2023-07-02,Été,,10,294,88.0,88.0,Carrollbury,Mississippi,Tonga
+107,1956,M,755,2023-07-09,Été,,4,36,198.99,397.98,Carrollbury,Mississippi,Tonga
+107,1956,M,755,2023-07-09,Été,,16,485,26.0,26.0,Carrollbury,Mississippi,Tonga
+107,1956,M,755,2023-07-09,Été,,17,511,21.0,42.0,Carrollbury,Mississippi,Tonga
+82,2002,M,674,2023-02-20,Hiver,,2,51,61.0,61.0,New Nicholashaven,Nevada,Netherlands Antilles
+82,2002,M,674,2023-02-20,Hiver,,5,147,88.0,176.0,New Nicholashaven,Nevada,Netherlands Antilles
+82,2002,M,674,2023-02-20,Hiver,,16,480,57.0,171.0,New Nicholashaven,Nevada,Netherlands Antilles
+112,1990,F,773,2023-07-02,Été,,3,31,129.98,389.94,New Nicholashaven,Nevada,Netherlands Antilles
+112,1990,F,773,2023-07-02,Été,,9,265,66.0,198.0,New Nicholashaven,Nevada,Netherlands Antilles
+112,1990,F,773,2023-07-02,Été,,12,357,17.0,51.0,New Nicholashaven,Nevada,Netherlands Antilles
+112,1990,F,773,2023-07-02,Été,,16,483,22.0,66.0,New Nicholashaven,Nevada,Netherlands Antilles
+17,1942,M,488,2023-07-19,Été,,2,29,78.98,78.98,Jennyside,Tennessee,Burkina Faso
+17,1942,M,488,2023-07-19,Été,,6,185,83.0,249.0,Jennyside,Tennessee,Burkina Faso
+49,1984,M,579,2023-07-20,Été,,10,306,84.0,252.0,Jennyside,Tennessee,Burkina Faso
+49,1984,M,579,2023-07-20,Été,,22,643,10.0,20.0,Jennyside,Tennessee,Burkina Faso
+56,1941,F,602,2023-03-25,Printemps,,2,57,72.0,216.0,Jennyside,Tennessee,Burkina Faso
+56,1941,F,602,2023-03-25,Printemps,,9,251,16.0,32.0,Jennyside,Tennessee,Burkina Faso
+56,1941,F,602,2023-03-25,Printemps,,14,416,8.0,16.0,Jennyside,Tennessee,Burkina Faso
+56,1941,F,602,2023-03-25,Printemps,,19,566,38.0,76.0,Jennyside,Tennessee,Burkina Faso
+76,2006,F,658,2023-10-26,Automne,,5,155,89.0,89.0,Jennyside,Tennessee,Burkina Faso
+76,2006,F,658,2023-10-26,Automne,,5,157,51.0,153.0,Jennyside,Tennessee,Burkina Faso
+76,2006,F,658,2023-10-26,Automne,,16,470,26.0,26.0,Jennyside,Tennessee,Burkina Faso
+76,2006,F,658,2023-10-26,Automne,,18,523,21.0,42.0,Jennyside,Tennessee,Burkina Faso
+76,2006,F,658,2023-10-26,Automne,,20,605,41.0,41.0,Jennyside,Tennessee,Burkina Faso
+92,1945,M,705,2023-05-17,Printemps,,14,413,70.0,210.0,Jennyside,Tennessee,Burkina Faso
+92,1945,M,705,2023-05-17,Printemps,,15,435,46.0,92.0,Jennyside,Tennessee,Burkina Faso
+92,1945,M,705,2023-05-17,Printemps,,15,458,14.0,42.0,Jennyside,Tennessee,Burkina Faso
+92,1945,M,705,2023-05-17,Printemps,,25,745,66.0,198.0,Jennyside,Tennessee,Burkina Faso
+26,1983,M,506,2023-05-14,Printemps,,4,128,98.0,294.0,North Robertchester,Oklahoma,Eritrea
+26,1983,M,506,2023-05-14,Printemps,,13,371,36.0,36.0,North Robertchester,Oklahoma,Eritrea
+26,1983,M,506,2023-05-14,Printemps,,15,447,99.0,297.0,North Robertchester,Oklahoma,Eritrea
+26,1983,M,506,2023-05-14,Printemps,,16,474,80.0,240.0,North Robertchester,Oklahoma,Eritrea
+26,1983,M,506,2023-05-14,Printemps,,19,554,98.0,294.0,North Robertchester,Oklahoma,Eritrea
+32,1978,F,522,2023-06-07,Été,,13,378,41.0,123.0,North Robertchester,Oklahoma,Eritrea
+32,1978,F,522,2023-06-07,Été,,15,448,63.0,126.0,North Robertchester,Oklahoma,Eritrea
+41,1934,F,551,2023-10-29,Automne,,14,413,70.0,70.0,North Robertchester,Oklahoma,Eritrea
+41,1934,F,551,2023-10-29,Automne,,25,732,73.0,219.0,North Robertchester,Oklahoma,Eritrea
+87,2000,M,686,2023-05-07,Printemps,,15,447,99.0,99.0,North Robertchester,Oklahoma,Eritrea
+90,1926,F,696,2023-02-08,Hiver,,4,123,13.0,13.0,North Robertchester,Oklahoma,Eritrea
+120,1976,M,795,2023-06-19,Été,,23,697,10.0,20.0,North Robertchester,Oklahoma,Eritrea
+45,1956,F,569,2023-02-20,Hiver,,8,232,20.0,60.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+45,1956,F,569,2023-02-20,Hiver,,15,448,63.0,126.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+46,1951,M,570,2023-11-23,Automne,,4,123,13.0,26.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+46,1951,M,570,2023-11-23,Automne,,5,140,76.0,76.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+46,1951,M,570,2023-11-23,Automne,,5,154,16.0,32.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+46,1951,M,570,2023-11-23,Automne,,6,187,60.0,180.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+61,2002,M,614,2023-08-12,Été,,4,120,52.0,52.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+61,2002,M,614,2023-08-12,Été,,12,360,21.0,21.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+61,2002,M,614,2023-08-12,Été,,13,376,57.0,171.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+61,2002,M,614,2023-08-12,Été,,15,440,17.0,51.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+80,1926,M,668,2023-12-26,Hiver,,11,335,66.0,198.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+80,1926,M,668,2023-12-26,Hiver,,13,383,22.0,66.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+80,1926,M,668,2023-12-26,Hiver,,14,407,33.0,66.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+80,1926,M,668,2023-12-26,Hiver,,15,441,71.0,213.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+80,1926,M,668,2023-12-26,Hiver,,25,753,93.0,186.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+82,2002,M,677,2023-01-22,Hiver,,2,61,95.0,285.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+82,2002,M,677,2023-01-22,Hiver,,3,98,16.0,48.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+82,2002,M,677,2023-01-22,Hiver,,5,129,64.0,192.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+82,2002,M,677,2023-01-22,Hiver,,10,304,4.0,8.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+82,2002,M,677,2023-01-22,Hiver,,15,446,30.0,90.0,West Carrie,Arkansas,Cocos (Keeling) Islands
+17,1942,M,487,2023-10-11,Automne,,7,192,71.0,213.0,Brandonmouth,Colorado,Honduras
+17,1942,M,487,2023-10-11,Automne,,22,644,49.0,49.0,Brandonmouth,Colorado,Honduras
+101,1976,M,740,2023-02-10,Hiver,,9,276,38.0,76.0,Brandonmouth,Colorado,Honduras
+101,1976,M,740,2023-02-10,Hiver,,11,316,99.0,99.0,Brandonmouth,Colorado,Honduras
+101,1976,M,740,2023-02-10,Hiver,,13,393,85.0,255.0,Brandonmouth,Colorado,Honduras
+101,1976,M,740,2023-02-10,Hiver,,22,658,16.0,48.0,Brandonmouth,Colorado,Honduras
+101,1976,M,740,2023-02-10,Hiver,,25,737,29.0,87.0,Brandonmouth,Colorado,Honduras
+63,1929,M,620,2023-05-31,Printemps,,2,65,70.0,210.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+63,1929,M,620,2023-05-31,Printemps,,9,258,97.0,194.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+63,1929,M,620,2023-05-31,Printemps,,17,494,44.0,132.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+63,1929,M,620,2023-05-31,Printemps,,19,552,13.0,13.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+63,1929,M,620,2023-05-31,Printemps,,22,650,11.0,33.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+109,1968,F,763,2023-09-18,Automne,,6,165,77.0,77.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+109,1968,F,763,2023-09-18,Automne,,11,335,66.0,132.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+109,1968,F,763,2023-09-18,Automne,,17,513,34.0,102.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+109,1968,F,763,2023-09-18,Automne,,17,515,50.0,150.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+109,1968,F,763,2023-09-18,Automne,,24,712,14.0,42.0,West Brianfort,Washington,Saint Vincent and the Grenadines
+80,1926,M,667,2023-09-06,Automne,,2,65,70.0,210.0,South Donaldland,Maine,Zimbabwe
+80,1926,M,667,2023-09-06,Automne,,9,264,69.0,207.0,South Donaldland,Maine,Zimbabwe
+80,1926,M,667,2023-09-06,Automne,,9,269,42.0,126.0,South Donaldland,Maine,Zimbabwe
+80,1926,M,667,2023-09-06,Automne,,14,413,70.0,70.0,South Donaldland,Maine,Zimbabwe
+80,1926,M,667,2023-09-06,Automne,,18,519,82.0,82.0,South Donaldland,Maine,Zimbabwe
+91,1945,M,700,2023-09-25,Automne,,4,121,57.0,114.0,South Donaldland,Maine,Zimbabwe
+91,1945,M,700,2023-09-25,Automne,,5,157,51.0,51.0,South Donaldland,Maine,Zimbabwe
+91,1945,M,700,2023-09-25,Automne,,9,262,51.0,153.0,South Donaldland,Maine,Zimbabwe
+91,1945,M,700,2023-09-25,Automne,,18,529,11.0,33.0,South Donaldland,Maine,Zimbabwe
+100,1987,M,737,2023-08-02,Été,,17,502,28.0,28.0,South Donaldland,Maine,Zimbabwe
+112,1990,F,771,2023-05-21,Printemps,,6,184,87.0,174.0,North Joemouth,West Virginia,New Caledonia
+112,1990,F,771,2023-05-21,Printemps,,17,506,60.0,60.0,North Joemouth,West Virginia,New Caledonia
+123,1942,F,810,2023-09-01,Automne,,4,109,62.0,124.0,North Joemouth,West Virginia,New Caledonia
+33,1983,M,525,2023-08-14,Été,,6,162,13.0,26.0,South Willieton,Ohio,New Caledonia
+83,1956,M,679,2023-06-24,Été,,25,742,23.0,69.0,South Willieton,Ohio,New Caledonia
+98,1955,M,725,2023-02-13,Hiver,,9,263,66.0,132.0,South Willieton,Ohio,New Caledonia
+98,1955,M,725,2023-02-13,Hiver,,18,534,90.0,90.0,South Willieton,Ohio,New Caledonia
+28,1933,M,511,2023-05-31,Printemps,,9,260,14.0,14.0,New Adrianton,Alabama,Saint Lucia
+43,1955,M,560,2023-06-26,Été,,17,502,28.0,56.0,New Adrianton,Alabama,Saint Lucia
+47,1943,F,575,2023-02-09,Hiver,,5,151,12.0,12.0,New Adrianton,Alabama,Saint Lucia
+47,1943,F,575,2023-02-09,Hiver,,5,154,16.0,16.0,New Adrianton,Alabama,Saint Lucia
+47,1943,F,575,2023-02-09,Hiver,,7,211,14.0,14.0,New Adrianton,Alabama,Saint Lucia
+50,1950,M,584,2023-12-24,Hiver,,3,74,87.0,261.0,New Adrianton,Alabama,Saint Lucia
+50,1950,M,584,2023-12-24,Hiver,,18,534,90.0,270.0,New Adrianton,Alabama,Saint Lucia
+50,1950,M,584,2023-12-24,Hiver,,22,657,34.0,34.0,New Adrianton,Alabama,Saint Lucia
+50,1950,M,584,2023-12-24,Hiver,,24,706,81.0,243.0,New Adrianton,Alabama,Saint Lucia
+99,2000,F,733,2023-12-01,Hiver,,21,629,53.0,106.0,New Adrianton,Alabama,Saint Lucia
+99,2000,F,733,2023-12-01,Hiver,,22,661,77.0,77.0,New Adrianton,Alabama,Saint Lucia
+99,2000,F,733,2023-12-01,Hiver,,24,700,10.0,30.0,New Adrianton,Alabama,Saint Lucia
+100,1987,M,738,2023-08-11,Été,,7,199,46.0,92.0,New Adrianton,Alabama,Saint Lucia
+100,1987,M,738,2023-08-11,Été,,24,720,76.0,76.0,New Adrianton,Alabama,Saint Lucia
+100,1987,M,738,2023-08-11,Été,,25,731,15.0,15.0,New Adrianton,Alabama,Saint Lucia
+108,2002,M,761,2023-06-20,Été,,6,178,83.0,83.0,New Adrianton,Alabama,Saint Lucia
+108,2002,M,761,2023-06-20,Été,,8,243,48.0,96.0,New Adrianton,Alabama,Saint Lucia
+108,2002,M,761,2023-06-20,Été,,11,324,0.0,0.0,New Adrianton,Alabama,Saint Lucia
+108,2002,M,761,2023-06-20,Été,,19,577,43.0,86.0,New Adrianton,Alabama,Saint Lucia
+108,2002,M,761,2023-06-20,Été,,21,609,45.0,45.0,New Adrianton,Alabama,Saint Lucia
+122,1996,M,804,2023-09-20,Automne,,3,32,12998.0,38994.0,New Adrianton,Alabama,Saint Lucia
+122,1996,M,804,2023-09-20,Automne,,12,340,76.0,228.0,New Adrianton,Alabama,Saint Lucia
+122,1996,M,804,2023-09-20,Automne,,14,428,77.0,231.0,New Adrianton,Alabama,Saint Lucia
+122,1996,M,804,2023-09-20,Automne,,17,515,50.0,150.0,New Adrianton,Alabama,Saint Lucia
+122,1996,M,804,2023-09-20,Automne,,24,705,5.0,5.0,New Adrianton,Alabama,Saint Lucia
+51,1991,F,589,2023-12-23,Hiver,,11,309,87.0,174.0,Franklinport,Utah,Tonga
+51,1991,F,589,2023-12-23,Hiver,,12,349,45.0,45.0,Franklinport,Utah,Tonga
+51,1991,F,589,2023-12-23,Hiver,,13,370,14.0,14.0,Franklinport,Utah,Tonga
+51,1991,F,589,2023-12-23,Hiver,,16,467,24.0,72.0,Franklinport,Utah,Tonga
+51,1991,F,589,2023-12-23,Hiver,,24,711,90.0,90.0,Franklinport,Utah,Tonga
+125,1998,M,817,2023-02-21,Hiver,,2,55,49.0,49.0,Franklinport,Utah,Tonga
+71,1943,F,643,2023-03-31,Printemps,,3,69,90.0,90.0,New Jonathanshire,Tennessee,Micronesia
+71,1943,F,643,2023-03-31,Printemps,,6,179,0.0,0.0,New Jonathanshire,Tennessee,Micronesia
+71,1943,F,643,2023-03-31,Printemps,,7,193,35.0,35.0,New Jonathanshire,Tennessee,Micronesia
+71,1943,F,643,2023-03-31,Printemps,,9,260,14.0,28.0,New Jonathanshire,Tennessee,Micronesia
+71,1943,F,643,2023-03-31,Printemps,,15,438,73.0,146.0,New Jonathanshire,Tennessee,Micronesia
+75,1990,F,655,2023-07-01,Été,,23,698,23.0,69.0,New Jonathanshire,Tennessee,Micronesia
+75,1990,F,655,2023-07-01,Été,,25,733,94.0,282.0,New Jonathanshire,Tennessee,Micronesia
+75,1990,F,655,2023-07-01,Été,,25,738,60.0,60.0,New Jonathanshire,Tennessee,Micronesia
+107,1956,M,756,2023-10-04,Automne,,6,180,85.0,170.0,New Jonathanshire,Tennessee,Micronesia
+107,1956,M,756,2023-10-04,Automne,,22,653,63.0,63.0,New Jonathanshire,Tennessee,Micronesia
+121,1980,F,801,2023-11-24,Automne,,10,294,88.0,176.0,New Jonathanshire,Tennessee,Micronesia
+121,1980,F,801,2023-11-24,Automne,,12,340,76.0,76.0,New Jonathanshire,Tennessee,Micronesia
+121,1980,F,801,2023-11-24,Automne,,24,719,74.0,74.0,New Jonathanshire,Tennessee,Micronesia
+40,1997,F,549,2023-09-30,Automne,,3,89,92.0,92.0,West Joycefurt,Georgia,Slovenia
+40,1997,F,549,2023-09-30,Automne,,20,580,46.0,138.0,West Joycefurt,Georgia,Slovenia
+40,1997,F,549,2023-09-30,Automne,,25,735,59.0,59.0,West Joycefurt,Georgia,Slovenia
+57,1932,F,604,2023-04-13,Printemps,,21,621,69.0,69.0,West Joycefurt,Georgia,Slovenia
+95,1973,F,719,2023-10-13,Automne,,23,669,87.0,174.0,South Ginachester,Tennessee,Bahrain
+95,1973,F,719,2023-10-13,Automne,,23,675,54.0,108.0,South Ginachester,Tennessee,Bahrain
+95,1973,F,719,2023-10-13,Automne,,24,726,20.0,60.0,South Ginachester,Tennessee,Bahrain
+116,1955,M,782,2023-12-01,Hiver,,7,195,44.0,88.0,South Ginachester,Tennessee,Bahrain
+30,1972,M,519,2023-10-23,Automne,,20,588,84.0,168.0,East Sandra,Pennsylvania,Iran
+30,1972,M,519,2023-10-23,Automne,,21,638,92.0,184.0,East Sandra,Pennsylvania,Iran
+114,2000,F,778,2023-06-16,Été,,6,186,18.0,18.0,East Sandra,Pennsylvania,Iran
+114,2000,F,778,2023-06-16,Été,,18,542,24.0,24.0,East Sandra,Pennsylvania,Iran
+114,2000,F,778,2023-06-16,Été,,24,721,99.0,198.0,East Sandra,Pennsylvania,Iran
+21,1960,F,492,2023-05-27,Printemps,,4,99,54.0,162.0,Greenside,Maryland,Jordan
+21,1960,F,492,2023-05-27,Printemps,,14,418,65.0,65.0,Greenside,Maryland,Jordan
+125,1998,M,820,2023-06-21,Été,,3,71,63.0,189.0,Greenside,Maryland,Jordan
+125,1998,M,820,2023-06-21,Été,,6,188,46.0,92.0,Greenside,Maryland,Jordan
+125,1998,M,820,2023-06-21,Été,,8,246,2.0,2.0,Greenside,Maryland,Jordan
+49,1984,M,581,2023-12-10,Hiver,,19,563,14.0,28.0,Thomasshire,Oklahoma,Belarus
+95,1973,F,718,2023-01-08,Hiver,,13,369,25.0,75.0,Thomasshire,Oklahoma,Belarus
+106,1997,F,750,2023-10-26,Automne,,24,728,79.0,237.0,Thomasshire,Oklahoma,Belarus
+15,2005,F,481,2023-08-04,Été,,2,48,13.0,39.0,South Joel,Arkansas,Bahamas
+15,2005,F,481,2023-08-04,Été,,21,609,45.0,45.0,South Joel,Arkansas,Bahamas
+23,1968,F,497,2023-09-28,Automne,,16,475,12.0,36.0,South Joel,Arkansas,Bahamas
+39,1961,M,544,2023-03-26,Printemps,,5,130,58.0,58.0,South Joel,Arkansas,Bahamas
+39,1961,M,544,2023-03-26,Printemps,,13,375,32.0,64.0,South Joel,Arkansas,Bahamas
+39,1961,M,544,2023-03-26,Printemps,,19,561,17.0,34.0,South Joel,Arkansas,Bahamas
+39,1961,M,544,2023-03-26,Printemps,,20,607,80.0,240.0,South Joel,Arkansas,Bahamas
+39,1961,M,544,2023-03-26,Printemps,,22,659,9.0,18.0,South Joel,Arkansas,Bahamas
+79,1951,M,665,2023-04-25,Printemps,,2,60,84.0,252.0,South Joel,Arkansas,Bahamas
+79,1951,M,665,2023-04-25,Printemps,,3,84,88.0,176.0,South Joel,Arkansas,Bahamas
+79,1951,M,665,2023-04-25,Printemps,,23,680,18.0,18.0,South Joel,Arkansas,Bahamas
+79,1951,M,665,2023-04-25,Printemps,,25,748,18.0,54.0,South Joel,Arkansas,Bahamas
+94,1975,M,713,2023-09-04,Automne,,6,182,43.0,86.0,South Joel,Arkansas,Bahamas
+94,1975,M,713,2023-09-04,Automne,,8,223,28.0,28.0,South Joel,Arkansas,Bahamas
+94,1975,M,713,2023-09-04,Automne,,8,235,73.0,73.0,South Joel,Arkansas,Bahamas
+94,1975,M,713,2023-09-04,Automne,,10,295,3.0,3.0,South Joel,Arkansas,Bahamas
+94,1975,M,713,2023-09-04,Automne,,18,534,90.0,270.0,South Joel,Arkansas,Bahamas
+103,1973,F,745,2023-08-13,Été,,10,306,84.0,252.0,South Joel,Arkansas,Bahamas
+103,1973,F,745,2023-08-13,Été,,11,320,67.0,201.0,South Joel,Arkansas,Bahamas
+103,1973,F,745,2023-08-13,Été,,18,521,22.0,66.0,South Joel,Arkansas,Bahamas
+103,1973,F,745,2023-08-13,Été,,19,571,82.0,82.0,South Joel,Arkansas,Bahamas
+43,1955,M,559,2023-05-13,Printemps,,8,220,47.0,94.0,Brittanymouth,Delaware,Equatorial Guinea
+43,1955,M,559,2023-05-13,Printemps,,21,623,83.0,249.0,Brittanymouth,Delaware,Equatorial Guinea
+43,1955,M,559,2023-05-13,Printemps,,23,696,73.0,146.0,Brittanymouth,Delaware,Equatorial Guinea
+49,1984,M,578,2023-08-28,Été,,12,341,38.0,76.0,Brittanymouth,Delaware,Equatorial Guinea
+49,1984,M,578,2023-08-28,Été,,14,419,76.0,76.0,Brittanymouth,Delaware,Equatorial Guinea
+49,1984,M,578,2023-08-28,Été,,15,454,29.0,58.0,Brittanymouth,Delaware,Equatorial Guinea
+49,1984,M,578,2023-08-28,Été,,25,748,18.0,36.0,Brittanymouth,Delaware,Equatorial Guinea
+90,1926,F,697,2023-03-13,Printemps,,8,219,68.0,68.0,Brittanymouth,Delaware,Equatorial Guinea
+90,1926,F,697,2023-03-13,Printemps,,22,640,95.0,190.0,Brittanymouth,Delaware,Equatorial Guinea
+90,1926,F,697,2023-03-13,Printemps,,22,642,91.0,273.0,Brittanymouth,Delaware,Equatorial Guinea
+76,2006,F,657,2023-01-16,Hiver,,5,148,35.0,105.0,Christophermouth,Washington,Suriname
+76,2006,F,657,2023-01-16,Hiver,,8,229,49.0,49.0,Christophermouth,Washington,Suriname
+76,2006,F,657,2023-01-16,Hiver,,22,663,29.0,87.0,Christophermouth,Washington,Suriname
+93,1996,M,708,2023-04-05,Printemps,,4,36,198.99,397.98,Christophermouth,Washington,Suriname
+93,1996,M,708,2023-04-05,Printemps,,9,276,38.0,76.0,Christophermouth,Washington,Suriname
+93,1996,M,708,2023-04-05,Printemps,,21,633,7.0,7.0,Christophermouth,Washington,Suriname
+121,1980,F,798,2023-11-27,Automne,,4,117,82.0,82.0,Christophermouth,Washington,Suriname
+34,1983,M,529,2023-05-10,Printemps,,14,402,18.0,36.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+34,1983,M,529,2023-05-10,Printemps,,16,475,12.0,24.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+34,1983,M,529,2023-05-10,Printemps,,18,548,23.0,46.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+35,1959,F,531,2023-09-04,Automne,,14,402,18.0,36.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+40,1997,F,548,2023-06-19,Été,,10,298,6.0,18.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+40,1997,F,548,2023-06-19,Été,,11,334,37.0,111.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+40,1997,F,548,2023-06-19,Été,,13,379,69.0,69.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+40,1997,F,548,2023-06-19,Été,,23,689,81.0,81.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+52,1948,F,593,2023-03-21,Printemps,,22,644,49.0,49.0,Caldwellside,New Hampshire,Libyan Arab Jamahiriya
+37,1981,F,538,2023-01-14,Hiver,,2,41,44.0,44.0,New Raymond,New Mexico,India
+37,1981,F,538,2023-01-14,Hiver,,5,129,64.0,128.0,New Raymond,New Mexico,India
+37,1981,F,538,2023-01-14,Hiver,,16,471,15.0,45.0,New Raymond,New Mexico,India
+45,1956,F,567,2023-10-22,Automne,,3,90,72.0,72.0,New Raymond,New Mexico,India
+45,1956,F,567,2023-10-22,Automne,,20,586,31.0,93.0,New Raymond,New Mexico,India
+57,1932,F,603,2023-04-26,Printemps,,4,115,11.0,33.0,Melissaborough,Vermont,Ghana
+57,1932,F,603,2023-04-26,Printemps,,6,186,18.0,54.0,Melissaborough,Vermont,Ghana
+57,1932,F,603,2023-04-26,Printemps,,21,625,32.0,32.0,Melissaborough,Vermont,Ghana
+57,1932,F,603,2023-04-26,Printemps,,25,754,84.0,168.0,Melissaborough,Vermont,Ghana
+91,1945,M,702,2023-03-27,Printemps,,3,97,25.0,50.0,Melissaborough,Vermont,Ghana
+91,1945,M,702,2023-03-27,Printemps,,11,319,35.0,105.0,Melissaborough,Vermont,Ghana
+91,1945,M,702,2023-03-27,Printemps,,17,511,21.0,63.0,Melissaborough,Vermont,Ghana
+91,1945,M,702,2023-03-27,Printemps,,21,616,1.0,2.0,Melissaborough,Vermont,Ghana
+125,1998,M,818,2023-03-13,Printemps,,9,254,58.0,58.0,Melissaborough,Vermont,Ghana
+125,1998,M,818,2023-03-13,Printemps,,11,319,35.0,105.0,Melissaborough,Vermont,Ghana
+125,1998,M,818,2023-03-13,Printemps,,16,477,78.0,78.0,Melissaborough,Vermont,Ghana
+24,1985,M,500,2023-11-30,Automne,,2,53,5.0,15.0,Janemouth,Oklahoma,Hong Kong
+24,1985,M,500,2023-11-30,Automne,,3,75,35.0,105.0,Janemouth,Oklahoma,Hong Kong
+24,1985,M,500,2023-11-30,Automne,,13,379,69.0,207.0,Janemouth,Oklahoma,Hong Kong
+32,1978,F,523,2023-06-21,Été,,5,136,36.0,72.0,Janemouth,Oklahoma,Hong Kong
+32,1978,F,523,2023-06-21,Été,,6,183,30.0,90.0,Janemouth,Oklahoma,Hong Kong
+32,1978,F,523,2023-06-21,Été,,13,381,47.0,94.0,Janemouth,Oklahoma,Hong Kong
+32,1978,F,523,2023-06-21,Été,,18,535,48.0,144.0,Janemouth,Oklahoma,Hong Kong
+32,1978,F,523,2023-06-21,Été,,21,614,76.0,228.0,Janemouth,Oklahoma,Hong Kong
+36,1978,F,536,2023-03-06,Printemps,,12,357,17.0,17.0,Lake Ianshire,New York,Aruba
+48,2000,F,577,2023-03-13,Printemps,,11,337,28.0,28.0,Lake Ianshire,New York,Aruba
+74,1999,M,652,2023-08-14,Été,,13,385,57.0,57.0,Lake Ianshire,New York,Aruba
+74,1999,M,652,2023-08-14,Été,,19,563,14.0,14.0,Lake Ianshire,New York,Aruba
+74,1999,M,652,2023-08-14,Été,,25,756,24.0,24.0,Lake Ianshire,New York,Aruba
+103,1973,F,744,2023-06-18,Été,,2,46,66.0,66.0,Lake Ianshire,New York,Aruba
+103,1973,F,744,2023-06-18,Été,,4,112,66.0,66.0,Lake Ianshire,New York,Aruba
+103,1973,F,744,2023-06-18,Été,,8,239,67.0,134.0,Lake Ianshire,New York,Aruba
+21,1960,F,491,2023-03-04,Printemps,,2,60,84.0,84.0,Ryanchester,Texas,Bahrain
+21,1960,F,491,2023-03-04,Printemps,,2,61,95.0,285.0,Ryanchester,Texas,Bahrain
+21,1960,F,491,2023-03-04,Printemps,,8,228,21.0,42.0,Ryanchester,Texas,Bahrain
+21,1960,F,491,2023-03-04,Printemps,,14,421,83.0,249.0,Ryanchester,Texas,Bahrain
+21,1960,F,491,2023-03-04,Printemps,,24,704,92.0,276.0,Ryanchester,Texas,Bahrain
+44,1982,F,564,2023-05-25,Printemps,,4,120,52.0,52.0,Ryanchester,Texas,Bahrain
+44,1982,F,564,2023-05-25,Printemps,,4,122,81.0,81.0,Ryanchester,Texas,Bahrain
+44,1982,F,564,2023-05-25,Printemps,,8,232,20.0,20.0,Ryanchester,Texas,Bahrain
+44,1982,F,564,2023-05-25,Printemps,,12,351,42.0,42.0,Ryanchester,Texas,Bahrain
+118,1982,M,789,2023-08-09,Été,,6,177,87.0,261.0,North Michele,Nevada,Venezuela
+118,1982,M,789,2023-08-09,Été,,10,288,56.0,168.0,North Michele,Nevada,Venezuela
+118,1982,M,789,2023-08-09,Été,,14,428,77.0,77.0,North Michele,Nevada,Venezuela
+65,1968,F,625,2023-07-09,Été,,12,342,60.0,180.0,Troyfurt,Arkansas,Kuwait
+65,1968,F,626,2023-01-05,Hiver,,17,503,8.0,24.0,Troyfurt,Arkansas,Kuwait
+65,1968,F,626,2023-01-05,Hiver,,23,693,4.0,12.0,Troyfurt,Arkansas,Kuwait
+111,2001,F,767,2023-08-18,Été,,10,279,78.0,78.0,Troyfurt,Arkansas,Kuwait
+111,2001,F,767,2023-08-18,Été,,10,293,78.0,156.0,Troyfurt,Arkansas,Kuwait
+111,2001,F,767,2023-08-18,Été,,13,397,96.0,288.0,Troyfurt,Arkansas,Kuwait
+29,2006,M,517,2023-11-29,Automne,,6,163,53.0,159.0,Lake Jennamouth,New Mexico,Belarus
+29,2006,M,517,2023-11-29,Automne,,10,290,57.0,114.0,Lake Jennamouth,New Mexico,Belarus
+29,2006,M,517,2023-11-29,Automne,,16,479,7.0,21.0,Lake Jennamouth,New Mexico,Belarus
+29,2006,M,517,2023-11-29,Automne,,17,513,34.0,68.0,Lake Jennamouth,New Mexico,Belarus
+29,2006,M,517,2023-11-29,Automne,,23,683,60.0,60.0,Lake Jennamouth,New Mexico,Belarus
+44,1982,F,562,2023-08-03,Été,,6,188,46.0,92.0,Lake Jennamouth,New Mexico,Belarus
+44,1982,F,562,2023-08-03,Été,,8,237,34.0,34.0,Lake Jennamouth,New Mexico,Belarus
+44,1982,F,562,2023-08-03,Été,,12,347,34.0,68.0,Lake Jennamouth,New Mexico,Belarus
+44,1982,F,562,2023-08-03,Été,,18,532,36.0,36.0,Lake Jennamouth,New Mexico,Belarus
+44,1982,F,562,2023-08-03,Été,,19,560,13.0,13.0,Lake Jennamouth,New Mexico,Belarus
+84,1961,F,681,2023-10-25,Automne,,4,123,13.0,26.0,Lake Jennamouth,New Mexico,Belarus
+84,1961,F,681,2023-10-25,Automne,,10,301,83.0,166.0,Lake Jennamouth,New Mexico,Belarus
+84,1961,F,681,2023-10-25,Automne,,11,311,1.0,3.0,Lake Jennamouth,New Mexico,Belarus
+101,1976,M,739,2023-06-23,Été,,11,314,27.0,81.0,Lake Jennamouth,New Mexico,Belarus
+101,1976,M,739,2023-06-23,Été,,12,346,33.0,66.0,Lake Jennamouth,New Mexico,Belarus
+101,1976,M,739,2023-06-23,Été,,16,483,22.0,44.0,Lake Jennamouth,New Mexico,Belarus
+101,1976,M,739,2023-06-23,Été,,22,658,16.0,48.0,Lake Jennamouth,New Mexico,Belarus
+107,1956,M,754,2023-10-10,Automne,,19,560,13.0,13.0,Lake Jennamouth,New Mexico,Belarus
+107,1956,M,754,2023-10-10,Automne,,21,621,69.0,207.0,Lake Jennamouth,New Mexico,Belarus
+107,1956,M,757,2023-11-14,Automne,,12,354,57.0,171.0,Lake Jennamouth,New Mexico,Belarus
+111,2001,F,769,2023-02-14,Hiver,,6,177,87.0,87.0,Lake Jennamouth,New Mexico,Belarus
+111,2001,F,769,2023-02-14,Hiver,,10,281,72.0,216.0,Lake Jennamouth,New Mexico,Belarus
+111,2001,F,769,2023-02-14,Hiver,,21,624,54.0,162.0,Lake Jennamouth,New Mexico,Belarus
+111,2001,F,769,2023-02-14,Hiver,,23,681,30.0,90.0,Lake Jennamouth,New Mexico,Belarus
+115,1973,F,779,2023-06-06,Été,,3,83,80.0,240.0,Lake Jennamouth,New Mexico,Belarus
+115,1973,F,779,2023-06-06,Été,,6,170,56.0,112.0,Lake Jennamouth,New Mexico,Belarus
+22,1931,M,496,2023-11-27,Automne,,4,122,81.0,162.0,Lake Brandonhaven,South Dakota,Iraq
+22,1931,M,496,2023-11-27,Automne,,23,690,67.0,134.0,Lake Brandonhaven,South Dakota,Iraq
+41,1934,F,552,2023-05-15,Printemps,,3,86,38.0,38.0,Lake Brandonhaven,South Dakota,Iraq
+41,1934,F,552,2023-05-15,Printemps,,13,379,69.0,207.0,Lake Brandonhaven,South Dakota,Iraq
+41,1934,F,552,2023-05-15,Printemps,,18,536,75.0,150.0,Lake Brandonhaven,South Dakota,Iraq
+41,1934,F,552,2023-05-15,Printemps,,19,564,65.0,195.0,Lake Brandonhaven,South Dakota,Iraq
+41,1934,F,552,2023-05-15,Printemps,,25,744,23.0,69.0,Lake Brandonhaven,South Dakota,Iraq
+76,2006,F,656,2023-01-05,Hiver,,6,183,30.0,60.0,Lake Brandonhaven,South Dakota,Iraq
+76,2006,F,656,2023-01-05,Hiver,,8,232,20.0,60.0,Lake Brandonhaven,South Dakota,Iraq
+76,2006,F,656,2023-01-05,Hiver,,25,733,94.0,282.0,Lake Brandonhaven,South Dakota,Iraq
+98,1955,M,728,2023-10-23,Automne,,8,243,48.0,96.0,Lake Brandonhaven,South Dakota,Iraq
+98,1955,M,728,2023-10-23,Automne,,12,345,16.0,48.0,Lake Brandonhaven,South Dakota,Iraq
+98,1955,M,728,2023-10-23,Automne,,18,532,36.0,108.0,Lake Brandonhaven,South Dakota,Iraq
+98,1955,M,728,2023-10-23,Automne,,18,543,87.0,261.0,Lake Brandonhaven,South Dakota,Iraq
+125,1998,M,816,2023-04-02,Printemps,,9,270,22.0,22.0,Lake Brandonhaven,South Dakota,Iraq
+125,1998,M,816,2023-04-02,Printemps,,19,555,28.0,56.0,Lake Brandonhaven,South Dakota,Iraq
+125,1998,M,816,2023-04-02,Printemps,,22,647,73.0,219.0,Lake Brandonhaven,South Dakota,Iraq
+31,1955,F,521,2023-10-07,Automne,,9,261,98.0,196.0,Angelaview,Oregon,Russian Federation
+58,1931,M,606,2023-09-07,Automne,,3,71,63.0,63.0,Angelaview,Oregon,Russian Federation
+58,1931,M,606,2023-09-07,Automne,,10,296,84.0,84.0,Angelaview,Oregon,Russian Federation
+58,1931,M,606,2023-09-07,Automne,,13,390,34.0,102.0,Angelaview,Oregon,Russian Federation
+58,1931,M,606,2023-09-07,Automne,,15,432,79.0,158.0,Angelaview,Oregon,Russian Federation
+58,1931,M,606,2023-09-07,Automne,,25,738,60.0,60.0,Angelaview,Oregon,Russian Federation
+16,1999,M,485,2023-12-12,Hiver,,3,69,90.0,90.0,Garciafort,Texas,Lao People's Democratic Republic
+33,1983,M,527,2023-06-09,Été,,7,201,86.0,258.0,Garciafort,Texas,Lao People's Democratic Republic
+33,1983,M,527,2023-06-09,Été,,13,375,32.0,32.0,Garciafort,Texas,Lao People's Democratic Republic
+33,1983,M,527,2023-06-09,Été,,13,387,41.0,123.0,Garciafort,Texas,Lao People's Democratic Republic
+33,1983,M,527,2023-06-09,Été,,23,695,7.0,21.0,Garciafort,Texas,Lao People's Democratic Republic
+33,1983,M,527,2023-06-09,Été,,25,750,91.0,273.0,Garciafort,Texas,Lao People's Democratic Republic
+37,1981,F,541,2023-10-10,Automne,,8,233,6.0,18.0,Garciafort,Texas,Lao People's Democratic Republic
+37,1981,F,541,2023-10-10,Automne,,9,263,66.0,66.0,Garciafort,Texas,Lao People's Democratic Republic
+37,1981,F,541,2023-10-10,Automne,,9,275,15.0,45.0,Garciafort,Texas,Lao People's Democratic Republic
+67,1954,M,631,2023-12-22,Hiver,,3,82,36.0,108.0,Garciafort,Texas,Lao People's Democratic Republic
+67,1954,M,631,2023-12-22,Hiver,,5,144,22.0,44.0,Garciafort,Texas,Lao People's Democratic Republic
+67,1954,M,631,2023-12-22,Hiver,,24,713,40.0,80.0,Garciafort,Texas,Lao People's Democratic Republic
+67,1954,M,631,2023-12-22,Hiver,,25,747,50.0,100.0,Garciafort,Texas,Lao People's Democratic Republic
+67,1954,M,631,2023-12-22,Hiver,,25,750,91.0,182.0,Garciafort,Texas,Lao People's Democratic Republic
+81,1976,F,670,2023-03-06,Printemps,,13,382,5.0,10.0,Garciafort,Texas,Lao People's Democratic Republic
+81,1976,F,670,2023-03-06,Printemps,,16,484,21.0,63.0,Garciafort,Texas,Lao People's Democratic Republic
+99,2000,F,732,2023-11-21,Automne,,11,321,62.0,124.0,Garciafort,Texas,Lao People's Democratic Republic
+99,2000,F,732,2023-11-21,Automne,,16,479,7.0,7.0,Garciafort,Texas,Lao People's Democratic Republic
+107,1956,M,753,2023-10-30,Automne,,4,100,57.0,114.0,Garciafort,Texas,Lao People's Democratic Republic
+107,1956,M,753,2023-10-30,Automne,,9,251,16.0,32.0,Garciafort,Texas,Lao People's Democratic Republic
+107,1956,M,753,2023-10-30,Automne,,10,281,72.0,216.0,Garciafort,Texas,Lao People's Democratic Republic
+107,1956,M,753,2023-10-30,Automne,,10,299,33.0,66.0,Garciafort,Texas,Lao People's Democratic Republic
+107,1956,M,753,2023-10-30,Automne,,21,630,8.0,16.0,Garciafort,Texas,Lao People's Democratic Republic
+26,1983,M,507,2023-06-29,Été,,5,143,86.0,86.0,Rachelmouth,Maine,Sweden
+26,1983,M,507,2023-06-29,Été,,8,221,79.0,158.0,Rachelmouth,Maine,Sweden
+26,1983,M,507,2023-06-29,Été,,9,266,91.0,273.0,Rachelmouth,Maine,Sweden
+26,1983,M,507,2023-06-29,Été,,19,549,87.0,87.0,Rachelmouth,Maine,Sweden
+26,1983,M,507,2023-06-29,Été,,20,597,27.0,81.0,Rachelmouth,Maine,Sweden
+84,1961,F,680,2023-09-02,Automne,,8,224,48.0,144.0,Rachelmouth,Maine,Sweden
+84,1961,F,680,2023-09-02,Automne,,12,353,40.0,40.0,Rachelmouth,Maine,Sweden
+84,1961,F,680,2023-09-02,Automne,,20,604,65.0,195.0,Rachelmouth,Maine,Sweden
+84,1961,F,680,2023-09-02,Automne,,24,713,40.0,80.0,Rachelmouth,Maine,Sweden
+97,1948,F,723,2023-01-22,Hiver,,9,263,66.0,66.0,Rachelmouth,Maine,Sweden
+97,1948,F,723,2023-01-22,Hiver,,9,273,53.0,159.0,Rachelmouth,Maine,Sweden
+97,1948,F,723,2023-01-22,Hiver,,19,552,13.0,26.0,Rachelmouth,Maine,Sweden
+97,1948,F,723,2023-01-22,Hiver,,24,704,92.0,92.0,Rachelmouth,Maine,Sweden
+55,1926,M,600,2023-06-02,Été,,3,32,12998.0,25996.0,Biancaborough,Pennsylvania,Burkina Faso
+55,1926,M,600,2023-06-02,Été,,3,70,53.0,53.0,Biancaborough,Pennsylvania,Burkina Faso
+55,1926,M,600,2023-06-02,Été,,7,208,55.0,165.0,Biancaborough,Pennsylvania,Burkina Faso
+55,1926,M,600,2023-06-02,Été,,17,493,73.0,219.0,Biancaborough,Pennsylvania,Burkina Faso
+55,1926,M,600,2023-06-02,Été,,19,556,19.0,38.0,Biancaborough,Pennsylvania,Burkina Faso
+115,1973,F,780,2023-04-05,Printemps,,17,510,55.0,165.0,Biancaborough,Pennsylvania,Burkina Faso
+115,1973,F,780,2023-04-05,Printemps,,23,671,55.0,110.0,Biancaborough,Pennsylvania,Burkina Faso
+15,2005,F,482,2023-09-05,Automne,,2,47,91.0,182.0,East Corey,New Hampshire,France
+15,2005,F,482,2023-09-05,Automne,,4,117,82.0,82.0,East Corey,New Hampshire,France
+15,2005,F,482,2023-09-05,Automne,,16,467,24.0,72.0,East Corey,New Hampshire,France
+15,2005,F,482,2023-09-05,Automne,,25,731,15.0,30.0,East Corey,New Hampshire,France
+24,1985,M,498,2023-09-22,Automne,,13,392,11.0,11.0,East Corey,New Hampshire,France
+24,1985,M,498,2023-09-22,Automne,,16,462,75.0,225.0,East Corey,New Hampshire,France
+24,1985,M,498,2023-09-22,Automne,,17,500,42.0,84.0,East Corey,New Hampshire,France
+24,1985,M,498,2023-09-22,Automne,,25,730,79.0,237.0,East Corey,New Hampshire,France
+105,2006,M,748,2023-10-04,Automne,,4,115,11.0,33.0,East Corey,New Hampshire,France
+105,2006,M,748,2023-10-04,Automne,,14,403,96.0,96.0,East Corey,New Hampshire,France
+105,2006,M,748,2023-10-04,Automne,,23,695,7.0,21.0,East Corey,New Hampshire,France
+109,1968,F,762,2023-01-22,Hiver,,12,362,50.0,150.0,East Corey,New Hampshire,France
+124,1983,F,815,2023-12-11,Hiver,,2,68,34.0,68.0,East Corey,New Hampshire,France
+124,1983,F,815,2023-12-11,Hiver,,3,73,25.0,50.0,East Corey,New Hampshire,France
+124,1983,F,815,2023-12-11,Hiver,,11,327,53.0,53.0,East Corey,New Hampshire,France
+124,1983,F,815,2023-12-11,Hiver,,12,340,76.0,228.0,East Corey,New Hampshire,France
+44,1982,F,561,2023-08-21,Été,,2,51,61.0,61.0,New Michael,Oregon,Ecuador
+44,1982,F,561,2023-08-21,Été,,22,655,22.0,44.0,New Michael,Oregon,Ecuador
+44,1982,F,561,2023-08-21,Été,,23,673,14.0,28.0,New Michael,Oregon,Ecuador
+44,1982,F,561,2023-08-21,Été,,24,709,61.0,61.0,New Michael,Oregon,Ecuador
+51,1991,F,590,2023-06-05,Été,,5,150,69.0,207.0,New Michael,Oregon,Ecuador
+51,1991,F,590,2023-06-05,Été,,6,181,73.0,146.0,New Michael,Oregon,Ecuador
+55,1926,M,599,2023-11-19,Automne,,7,189,98.0,196.0,New Michael,Oregon,Ecuador
+55,1926,M,599,2023-11-19,Automne,,9,267,21.0,42.0,New Michael,Oregon,Ecuador
+55,1926,M,599,2023-11-19,Automne,,18,526,55.0,165.0,New Michael,Oregon,Ecuador
+16,1999,M,483,2023-07-03,Été,,24,700,10.0,30.0,North Kristin,New York,American Samoa
+35,1959,F,530,2023-09-14,Automne,,14,404,61.0,61.0,North Kristin,New York,American Samoa
+35,1959,F,530,2023-09-14,Automne,,25,747,50.0,150.0,North Kristin,New York,American Samoa
+35,1959,F,530,2023-09-14,Automne,,25,757,85.0,85.0,North Kristin,New York,American Samoa
+44,1982,F,563,2023-12-30,Hiver,,15,440,17.0,34.0,North Kristin,New York,American Samoa
+44,1982,F,563,2023-12-30,Hiver,,17,490,61.0,183.0,North Kristin,New York,American Samoa
+44,1982,F,563,2023-12-30,Hiver,,22,660,33.0,66.0,North Kristin,New York,American Samoa
+52,1948,F,592,2023-12-23,Hiver,,4,120,52.0,52.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,592,2023-12-23,Hiver,,7,199,46.0,46.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,592,2023-12-23,Hiver,,12,345,16.0,16.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,592,2023-12-23,Hiver,,14,417,96.0,192.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,592,2023-12-23,Hiver,,19,572,76.0,152.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,594,2023-04-10,Printemps,,16,467,24.0,48.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,594,2023-04-10,Printemps,,20,602,33.0,66.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+52,1948,F,594,2023-04-10,Printemps,,23,676,95.0,95.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+93,1996,M,709,2023-04-03,Printemps,,12,363,5.0,15.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+93,1996,M,709,2023-04-03,Printemps,,18,527,50.0,150.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+93,1996,M,711,2023-04-15,Printemps,,14,413,70.0,70.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+93,1996,M,711,2023-04-15,Printemps,,17,491,45.0,135.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+93,1996,M,711,2023-04-15,Printemps,,20,607,80.0,80.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+112,1990,F,772,2023-06-15,Été,,16,482,75.0,150.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+112,1990,F,772,2023-06-15,Été,,21,617,17.0,17.0,Ramirezborough,Montana,Saint Pierre and Miquelon
+69,1937,F,637,2023-09-06,Automne,,25,753,93.0,186.0,Sparksmouth,Washington,San Marino
+75,1990,F,654,2023-11-04,Automne,,18,533,90.0,180.0,Sparksmouth,Washington,San Marino
+106,1997,F,752,2023-02-14,Hiver,,17,501,36.0,72.0,Sparksmouth,Washington,San Marino
+111,2001,F,770,2023-06-24,Été,,21,629,53.0,159.0,Sparksmouth,Washington,San Marino
+111,2001,F,770,2023-06-24,Été,,22,657,34.0,34.0,Sparksmouth,Washington,San Marino
+111,2001,F,770,2023-06-24,Été,,22,666,41.0,123.0,Sparksmouth,Washington,San Marino
+79,1951,M,666,2023-11-15,Automne,,3,77,9.0,18.0,Morsechester,Pennsylvania,Japan
+79,1951,M,666,2023-11-15,Automne,,7,198,27.0,81.0,Morsechester,Pennsylvania,Japan
+79,1951,M,666,2023-11-15,Automne,,10,299,33.0,33.0,Morsechester,Pennsylvania,Japan
+79,1951,M,666,2023-11-15,Automne,,14,399,98.0,98.0,Morsechester,Pennsylvania,Japan
+89,1961,M,690,2023-08-05,Été,,6,164,73.0,146.0,Morsechester,Pennsylvania,Japan
+89,1961,M,690,2023-08-05,Été,,15,443,65.0,130.0,Morsechester,Pennsylvania,Japan
+89,1961,M,690,2023-08-05,Été,,17,514,63.0,189.0,Morsechester,Pennsylvania,Japan
+89,1961,M,690,2023-08-05,Été,,19,553,27.0,108.0,Morsechester,Pennsylvania,Japan
+91,1945,M,701,2023-07-26,Été,,10,279,78.0,156.0,Morsechester,Pennsylvania,Japan
+91,1945,M,701,2023-07-26,Été,,14,425,65.0,130.0,Morsechester,Pennsylvania,Japan
+91,1945,M,701,2023-07-26,Été,,17,499,66.0,66.0,Morsechester,Pennsylvania,Japan
+118,1982,M,790,2023-12-23,Hiver,,5,152,79.0,79.0,Morsechester,Pennsylvania,Japan
+118,1982,M,790,2023-12-23,Hiver,,10,299,33.0,99.0,Morsechester,Pennsylvania,Japan
+118,1982,M,790,2023-12-23,Hiver,,11,337,28.0,56.0,Morsechester,Pennsylvania,Japan
+118,1982,M,790,2023-12-23,Hiver,,20,603,17.0,51.0,Morsechester,Pennsylvania,Japan
+118,1982,M,790,2023-12-23,Hiver,,22,641,1.0,3.0,Morsechester,Pennsylvania,Japan
+29,2006,M,514,2023-11-26,Automne,,3,89,92.0,92.0,South Eddieton,Idaho,China
+29,2006,M,514,2023-11-26,Automne,,14,409,88.0,176.0,South Eddieton,Idaho,China
+29,2006,M,514,2023-11-26,Automne,,18,542,24.0,72.0,South Eddieton,Idaho,China
+29,2006,M,514,2023-11-26,Automne,,21,620,5.0,15.0,South Eddieton,Idaho,China
+39,1961,M,545,2023-06-18,Été,,6,162,13.0,26.0,South Eddieton,Idaho,China
+68,1937,M,635,2023-08-26,Été,,9,266,91.0,182.0,Wilkinsonchester,Minnesota,Germany
+68,1937,M,635,2023-08-26,Été,,11,330,33.0,99.0,Wilkinsonchester,Minnesota,Germany
+81,1976,F,672,2023-02-06,Hiver,,15,437,41.0,123.0,Wilkinsonchester,Minnesota,Germany
+40,1997,F,546,2023-01-13,Hiver,,4,111,94.0,188.0,Brandonborough,West Virginia,Chile
+40,1997,F,546,2023-01-13,Hiver,,12,366,71.0,142.0,Brandonborough,West Virginia,Chile
+40,1997,F,546,2023-01-13,Hiver,,14,403,96.0,288.0,Brandonborough,West Virginia,Chile
+40,1997,F,546,2023-01-13,Hiver,,18,531,35.0,105.0,Brandonborough,West Virginia,Chile
+66,1974,F,630,2023-10-05,Automne,,3,78,52.0,156.0,Brandonborough,West Virginia,Chile
+66,1974,F,630,2023-10-05,Automne,,6,167,95.0,285.0,Brandonborough,West Virginia,Chile
+66,1974,F,630,2023-10-05,Automne,,9,266,91.0,182.0,Brandonborough,West Virginia,Chile
+66,1974,F,630,2023-10-05,Automne,,10,303,74.0,148.0,Brandonborough,West Virginia,Chile
+66,1974,F,630,2023-10-05,Automne,,18,527,50.0,100.0,Brandonborough,West Virginia,Chile
+100,1987,M,736,2023-06-24,Été,,10,307,71.0,213.0,Brandonborough,West Virginia,Chile
+100,1987,M,736,2023-06-24,Été,,12,346,33.0,33.0,Brandonborough,West Virginia,Chile
+100,1987,M,736,2023-06-24,Été,,19,571,82.0,82.0,Brandonborough,West Virginia,Chile
+24,1985,M,499,2023-10-15,Automne,,12,348,7.0,21.0,Williamsview,Arizona,Niger
+24,1985,M,499,2023-10-15,Automne,,23,693,4.0,12.0,Williamsview,Arizona,Niger
+50,1950,M,586,2023-04-22,Printemps,,18,520,30.0,90.0,Williamsview,Arizona,Niger
+61,2002,M,615,2023-11-08,Automne,,6,173,61.0,183.0,Williamsview,Arizona,Niger
+61,2002,M,615,2023-11-08,Automne,,17,507,81.0,81.0,Williamsview,Arizona,Niger
+108,2002,M,758,2023-03-18,Printemps,,4,109,62.0,62.0,Williamsview,Arizona,Niger
+108,2002,M,758,2023-03-18,Printemps,,15,443,65.0,195.0,Williamsview,Arizona,Niger
+108,2002,M,758,2023-03-18,Printemps,,19,571,82.0,164.0,Williamsview,Arizona,Niger
+28,1933,M,509,2023-08-28,Été,,13,387,41.0,41.0,East Troyshire,Michigan,Belgium
+28,1933,M,509,2023-08-28,Été,,19,557,6.0,6.0,East Troyshire,Michigan,Belgium
+28,1933,M,509,2023-08-28,Été,,20,592,55.0,165.0,East Troyshire,Michigan,Belgium
+50,1950,M,582,2023-12-06,Hiver,,2,30,249.98,249.98,East Troyshire,Michigan,Belgium
+50,1950,M,582,2023-12-06,Hiver,,6,183,30.0,60.0,East Troyshire,Michigan,Belgium
+50,1950,M,582,2023-12-06,Hiver,,14,400,60.0,120.0,East Troyshire,Michigan,Belgium
+50,1950,M,582,2023-12-06,Hiver,,24,718,16.0,32.0,East Troyshire,Michigan,Belgium
+53,1953,F,595,2023-09-26,Automne,,14,418,65.0,195.0,East Troyshire,Michigan,Belgium
+66,1974,F,627,2023-01-18,Hiver,,11,338,76.0,76.0,Port Tylerville,Wisconsin,Ukraine
+85,1934,M,683,2023-11-05,Automne,,16,463,39.0,39.0,Port Tylerville,Wisconsin,Ukraine
+85,1934,M,683,2023-11-05,Automne,,20,605,41.0,41.0,Port Tylerville,Wisconsin,Ukraine
+108,2002,M,760,2023-07-27,Été,,3,87,60.0,180.0,Port Tylerville,Wisconsin,Ukraine
+108,2002,M,760,2023-07-27,Été,,15,447,99.0,198.0,Port Tylerville,Wisconsin,Ukraine
+108,2002,M,760,2023-07-27,Été,,16,476,68.0,68.0,Port Tylerville,Wisconsin,Ukraine
+124,1983,F,813,2023-06-24,Été,,11,322,44.0,88.0,Port Tylerville,Wisconsin,Ukraine
+124,1983,F,813,2023-06-24,Été,,15,441,71.0,71.0,Port Tylerville,Wisconsin,Ukraine
+124,1983,F,813,2023-06-24,Été,,18,548,23.0,23.0,Port Tylerville,Wisconsin,Ukraine
+124,1983,F,813,2023-06-24,Été,,20,588,84.0,168.0,Port Tylerville,Wisconsin,Ukraine
+124,1983,F,813,2023-06-24,Été,,20,592,55.0,55.0,Port Tylerville,Wisconsin,Ukraine
+92,1945,M,704,2023-03-03,Printemps,,9,259,61.0,122.0,Lake Julieborough,Montana,Ethiopia
+92,1945,M,704,2023-03-03,Printemps,,22,651,6.0,18.0,Lake Julieborough,Montana,Ethiopia
+92,1945,M,706,2023-03-18,Printemps,,11,328,92.0,184.0,Lake Julieborough,Montana,Ethiopia
+92,1945,M,706,2023-03-18,Printemps,,12,359,62.0,62.0,Lake Julieborough,Montana,Ethiopia
+98,1955,M,726,2023-05-29,Printemps,,8,220,47.0,94.0,Lake Julieborough,Montana,Ethiopia
+16,1999,M,484,2023-11-30,Automne,,2,67,98.0,294.0,Kevinland,Iowa,Antigua and Barbuda
+16,1999,M,484,2023-11-30,Automne,,9,268,88.0,88.0,Kevinland,Iowa,Antigua and Barbuda
+16,1999,M,484,2023-11-30,Automne,,12,341,38.0,38.0,Kevinland,Iowa,Antigua and Barbuda
+16,1999,M,484,2023-11-30,Automne,,13,372,44.0,132.0,Kevinland,Iowa,Antigua and Barbuda
+16,1999,M,484,2023-11-30,Automne,,20,604,65.0,130.0,Kevinland,Iowa,Antigua and Barbuda
+45,1956,F,568,2023-03-28,Printemps,,8,222,19.0,19.0,Kevinland,Iowa,Antigua and Barbuda
+45,1956,F,568,2023-03-28,Printemps,,13,375,32.0,32.0,Kevinland,Iowa,Antigua and Barbuda
+45,1956,F,568,2023-03-28,Printemps,,15,443,65.0,195.0,Kevinland,Iowa,Antigua and Barbuda
+45,1956,F,568,2023-03-28,Printemps,,21,612,37.0,111.0,Kevinland,Iowa,Antigua and Barbuda
+45,1956,F,568,2023-03-28,Printemps,,23,676,95.0,190.0,Kevinland,Iowa,Antigua and Barbuda
+61,2002,M,616,2023-09-22,Automne,,3,81,84.0,84.0,Kevinland,Iowa,Antigua and Barbuda
+61,2002,M,616,2023-09-22,Automne,,8,242,9.0,27.0,Kevinland,Iowa,Antigua and Barbuda
+124,1983,F,812,2023-09-02,Automne,,7,203,39.0,117.0,Kevinland,Iowa,Antigua and Barbuda
+124,1983,F,812,2023-09-02,Automne,,23,693,4.0,12.0,Kevinland,Iowa,Antigua and Barbuda
+124,1983,F,812,2023-09-02,Automne,,24,714,54.0,162.0,Kevinland,Iowa,Antigua and Barbuda
+124,1983,F,812,2023-09-02,Automne,,25,729,19.0,38.0,Kevinland,Iowa,Antigua and Barbuda
+76,2006,F,659,2023-07-04,Été,,3,78,52.0,156.0,Nelsonchester,South Carolina,Togo
+76,2006,F,659,2023-07-04,Été,,7,212,91.0,91.0,Nelsonchester,South Carolina,Togo
+76,2006,F,659,2023-07-04,Été,,10,287,68.0,136.0,Nelsonchester,South Carolina,Togo
+76,2006,F,659,2023-07-04,Été,,17,503,8.0,24.0,Nelsonchester,South Carolina,Togo
+76,2006,F,659,2023-07-04,Été,,23,688,84.0,168.0,Nelsonchester,South Carolina,Togo
+77,1983,F,660,2023-03-10,Printemps,,6,162,13.0,26.0,Nelsonchester,South Carolina,Togo
+77,1983,F,660,2023-03-10,Printemps,,6,164,73.0,146.0,Nelsonchester,South Carolina,Togo
+77,1983,F,660,2023-03-10,Printemps,,7,215,2.0,2.0,Nelsonchester,South Carolina,Togo
+77,1983,F,660,2023-03-10,Printemps,,19,558,57.0,114.0,Nelsonchester,South Carolina,Togo
+77,1983,F,660,2023-03-10,Printemps,,24,720,76.0,76.0,Nelsonchester,South Carolina,Togo
+82,2002,M,673,2023-12-06,Hiver,,3,76,95.0,285.0,Nelsonchester,South Carolina,Togo
+82,2002,M,673,2023-12-06,Hiver,,25,735,59.0,177.0,Nelsonchester,South Carolina,Togo
+117,2000,F,784,2023-05-30,Printemps,,2,58,73.0,219.0,Nelsonchester,South Carolina,Togo
+117,2000,F,784,2023-05-30,Printemps,,8,244,57.0,114.0,Nelsonchester,South Carolina,Togo
+117,2000,F,784,2023-05-30,Printemps,,17,514,63.0,126.0,Nelsonchester,South Carolina,Togo
+47,1943,F,574,2023-04-13,Printemps,,20,585,6.0,12.0,Martinezberg,North Dakota,Bolivia
+70,2006,F,640,2023-09-27,Automne,,6,176,73.0,219.0,Martinezberg,North Dakota,Bolivia
+70,2006,F,640,2023-09-27,Automne,,13,379,69.0,207.0,Martinezberg,North Dakota,Bolivia
+70,2006,F,640,2023-09-27,Automne,,13,389,26.0,26.0,Martinezberg,North Dakota,Bolivia
+70,2006,F,640,2023-09-27,Automne,,22,648,44.0,88.0,Martinezberg,North Dakota,Bolivia
+70,2006,F,640,2023-09-27,Automne,,25,743,52.0,104.0,Martinezberg,North Dakota,Bolivia
+106,1997,F,749,2023-07-01,Été,,4,114,63.0,189.0,Martinezberg,North Dakota,Bolivia
+106,1997,F,749,2023-07-01,Été,,14,420,19.0,38.0,Martinezberg,North Dakota,Bolivia
+106,1997,F,749,2023-07-01,Été,,22,664,93.0,186.0,Martinezberg,North Dakota,Bolivia
+28,1933,M,510,2023-10-10,Automne,,13,390,34.0,102.0,Brownfurt,Rhode Island,Slovakia (Slovak Republic)
+98,1955,M,727,2023-07-29,Été,,3,93,76.0,228.0,Brownfurt,Rhode Island,Slovakia (Slovak Republic)
+98,1955,M,727,2023-07-29,Été,,19,554,98.0,294.0,Brownfurt,Rhode Island,Slovakia (Slovak Republic)
+41,1934,F,555,2023-07-01,Été,,2,43,39.0,39.0,Stevensfurt,Virginia,Guam
+41,1934,F,555,2023-07-01,Été,,5,156,60.0,60.0,Stevensfurt,Virginia,Guam
+41,1934,F,555,2023-07-01,Été,,6,163,53.0,106.0,Stevensfurt,Virginia,Guam
+41,1934,F,555,2023-07-01,Été,,16,462,75.0,150.0,Stevensfurt,Virginia,Guam
+41,1934,F,555,2023-07-01,Été,,17,518,6.0,12.0,Stevensfurt,Virginia,Guam
+51,1991,F,588,2023-01-09,Hiver,,4,112,66.0,198.0,Johnsontown,Arizona,Somalia
+51,1991,F,588,2023-01-09,Hiver,,15,432,79.0,158.0,Johnsontown,Arizona,Somalia
+51,1991,F,588,2023-01-09,Hiver,,23,674,61.0,183.0,Johnsontown,Arizona,Somalia
+69,1937,F,638,2023-01-28,Hiver,,12,361,60.0,120.0,Johnsontown,Arizona,Somalia
+69,1937,F,638,2023-01-28,Hiver,,23,675,54.0,162.0,Johnsontown,Arizona,Somalia
+97,1948,F,722,2023-09-28,Automne,,9,261,98.0,196.0,Johnsontown,Arizona,Somalia
+113,1972,M,774,2023-12-11,Hiver,,21,616,1.0,1.0,Smithport,Nebraska,United Kingdom
+89,1961,M,691,2023-05-12,Printemps,,2,53,5.0,10.0,Jonesborough,New Hampshire,Slovenia
+89,1961,M,691,2023-05-12,Printemps,,3,74,87.0,87.0,Jonesborough,New Hampshire,Slovenia
+89,1961,M,691,2023-05-12,Printemps,,7,189,98.0,98.0,Jonesborough,New Hampshire,Slovenia
+89,1961,M,691,2023-05-12,Printemps,,9,256,68.0,136.0,Jonesborough,New Hampshire,Slovenia
+89,1961,M,691,2023-05-12,Printemps,,16,476,68.0,68.0,Jonesborough,New Hampshire,Slovenia
+96,1986,M,720,2023-10-02,Automne,,9,252,9.0,27.0,Jonesborough,New Hampshire,Slovenia
+96,1986,M,720,2023-10-02,Automne,,10,282,89.0,267.0,Jonesborough,New Hampshire,Slovenia
+96,1986,M,720,2023-10-02,Automne,,13,396,15.0,15.0,Jonesborough,New Hampshire,Slovenia
+96,1986,M,720,2023-10-02,Automne,,18,540,41.0,123.0,Jonesborough,New Hampshire,Slovenia
+38,1967,M,543,2023-10-14,Automne,,12,362,50.0,50.0,West Lisa,Alaska,Jersey
+38,1967,M,543,2023-10-14,Automne,,21,618,49.0,49.0,West Lisa,Alaska,Jersey
+58,1931,M,607,2023-06-26,Été,,3,83,80.0,80.0,West Lisa,Alaska,Jersey
+58,1931,M,607,2023-06-26,Été,,6,173,61.0,122.0,West Lisa,Alaska,Jersey
+58,1931,M,607,2023-06-26,Été,,24,728,79.0,237.0,West Lisa,Alaska,Jersey
+119,1933,M,792,2023-06-08,Été,,6,178,83.0,83.0,West Lisa,Alaska,Jersey
+119,1933,M,792,2023-06-08,Été,,23,670,68.0,68.0,West Lisa,Alaska,Jersey
+119,1933,M,792,2023-06-08,Été,,24,728,79.0,158.0,West Lisa,Alaska,Jersey
+17,1942,M,486,2023-11-16,Automne,,4,112,66.0,66.0,West Katherinehaven,Utah,Guinea
+59,1969,F,610,2023-07-19,Été,,22,642,91.0,182.0,West Katherinehaven,Utah,Guinea
+68,1937,M,633,2023-08-24,Été,,3,31,129.98,389.94,West Katherinehaven,Utah,Guinea
+68,1937,M,633,2023-08-24,Été,,9,277,71.0,71.0,West Katherinehaven,Utah,Guinea
+68,1937,M,633,2023-08-24,Été,,11,335,66.0,132.0,West Katherinehaven,Utah,Guinea
+68,1937,M,633,2023-08-24,Été,,16,466,69.0,69.0,West Katherinehaven,Utah,Guinea
+68,1937,M,633,2023-08-24,Été,,25,738,60.0,60.0,West Katherinehaven,Utah,Guinea
+78,2005,M,662,2023-03-01,Printemps,,4,33,99.98,99.98,Evelynhaven,Michigan,Paraguay
+78,2005,M,662,2023-03-01,Printemps,,3,81,84.0,84.0,Evelynhaven,Michigan,Paraguay
+78,2005,M,662,2023-03-01,Printemps,,4,119,66.0,198.0,Evelynhaven,Michigan,Paraguay
+78,2005,M,662,2023-03-01,Printemps,,19,578,21.0,42.0,Evelynhaven,Michigan,Paraguay
+88,1998,M,688,2023-03-16,Printemps,,11,326,34.0,34.0,Evelynhaven,Michigan,Paraguay
+88,1998,M,688,2023-03-16,Printemps,,12,361,60.0,120.0,Evelynhaven,Michigan,Paraguay
+88,1998,M,688,2023-03-16,Printemps,,16,475,12.0,36.0,Evelynhaven,Michigan,Paraguay
+88,1998,M,688,2023-03-16,Printemps,,17,503,8.0,16.0,Evelynhaven,Michigan,Paraguay
+88,1998,M,688,2023-03-16,Printemps,,25,745,66.0,198.0,Evelynhaven,Michigan,Paraguay
+94,1975,M,715,2023-11-15,Automne,,6,188,46.0,46.0,Evelynhaven,Michigan,Paraguay
+94,1975,M,715,2023-11-15,Automne,,13,374,93.0,186.0,Evelynhaven,Michigan,Paraguay
+94,1975,M,715,2023-11-15,Automne,,18,522,92.0,184.0,Evelynhaven,Michigan,Paraguay
+94,1975,M,715,2023-11-15,Automne,,23,693,4.0,12.0,Evelynhaven,Michigan,Paraguay
+54,2003,F,597,2023-06-23,Été,,5,133,5.0,10.0,New Tanya,Washington,Chile
+54,2003,F,597,2023-06-23,Été,,5,145,81.0,162.0,New Tanya,Washington,Chile
+54,2003,F,597,2023-06-23,Été,,9,257,79.0,158.0,New Tanya,Washington,Chile
+54,2003,F,597,2023-06-23,Été,,9,275,15.0,30.0,New Tanya,Washington,Chile
+54,2003,F,597,2023-06-23,Été,,12,347,34.0,68.0,New Tanya,Washington,Chile
+63,1929,M,618,2023-01-31,Hiver,,2,43,39.0,39.0,New Tanya,Washington,Chile
+63,1929,M,618,2023-01-31,Hiver,,21,626,82.0,246.0,New Tanya,Washington,Chile
+89,1961,M,692,2023-07-10,Été,,3,79,84.0,84.0,New Tanya,Washington,Chile
+89,1961,M,692,2023-07-10,Été,,5,141,48.0,96.0,New Tanya,Washington,Chile
+89,1961,M,692,2023-07-10,Été,,9,271,26.0,52.0,New Tanya,Washington,Chile
+89,1961,M,692,2023-07-10,Été,,16,473,45.0,90.0,New Tanya,Washington,Chile
+89,1961,M,692,2023-07-10,Été,,24,711,90.0,270.0,New Tanya,Washington,Chile
+117,2000,F,783,2023-03-25,Printemps,,10,287,68.0,136.0,New Tanya,Washington,Chile
+117,2000,F,783,2023-03-25,Printemps,,18,526,55.0,55.0,New Tanya,Washington,Chile
+117,2000,F,783,2023-03-25,Printemps,,20,597,27.0,81.0,New Tanya,Washington,Chile
+117,2000,F,783,2023-03-25,Printemps,,21,613,71.0,213.0,New Tanya,Washington,Chile
+45,1956,F,566,2023-03-21,Printemps,,12,365,57.0,114.0,North Lorifurt,New Hampshire,Colombia
+45,1956,F,566,2023-03-21,Printemps,,19,571,82.0,82.0,North Lorifurt,New Hampshire,Colombia
+60,1950,M,613,2023-02-06,Hiver,,13,383,22.0,22.0,North Lorifurt,New Hampshire,Colombia
+110,1936,M,766,2023-01-14,Hiver,,3,87,60.0,60.0,North Lorifurt,New Hampshire,Colombia
+110,1936,M,766,2023-01-14,Hiver,,9,253,40.0,80.0,North Lorifurt,New Hampshire,Colombia
+110,1936,M,766,2023-01-14,Hiver,,25,732,73.0,146.0,North Lorifurt,New Hampshire,Colombia
+116,1955,M,781,2023-06-14,Été,,5,147,88.0,176.0,North Lorifurt,New Hampshire,Colombia
+116,1955,M,781,2023-06-14,Été,,6,177,87.0,174.0,North Lorifurt,New Hampshire,Colombia
+116,1955,M,781,2023-06-14,Été,,6,183,30.0,60.0,North Lorifurt,New Hampshire,Colombia
+116,1955,M,781,2023-06-14,Été,,25,755,50.0,100.0,North Lorifurt,New Hampshire,Colombia
+63,1929,M,622,2023-08-23,Été,,6,166,99.0,297.0,North Carol,Michigan,Oman
+63,1929,M,622,2023-08-23,Été,,20,596,12.0,36.0,North Carol,Michigan,Oman
+63,1929,M,622,2023-08-23,Été,,21,617,17.0,34.0,North Carol,Michigan,Oman
+63,1929,M,622,2023-08-23,Été,,23,692,89.0,267.0,North Carol,Michigan,Oman
+79,1951,M,664,2023-12-18,Hiver,,7,212,91.0,273.0,North Carol,Michigan,Oman
+79,1951,M,664,2023-12-18,Hiver,,15,454,29.0,58.0,North Carol,Michigan,Oman
+79,1951,M,664,2023-12-18,Hiver,,20,606,7.0,7.0,North Carol,Michigan,Oman
+79,1951,M,664,2023-12-18,Hiver,,22,667,78.0,234.0,North Carol,Michigan,Oman
+120,1976,M,794,2023-07-16,Été,,2,43,39.0,39.0,North Carol,Michigan,Oman
+120,1976,M,794,2023-07-16,Été,,20,608,47.0,94.0,North Carol,Michigan,Oman
+123,1942,F,808,2023-11-15,Automne,,7,203,39.0,39.0,North Carol,Michigan,Oman
+123,1942,F,808,2023-11-15,Automne,,18,548,23.0,69.0,North Carol,Michigan,Oman
+54,2003,F,596,2023-06-30,Été,,17,512,1.0,2.0,Lake Dawn,Louisiana,Martinique
+54,2003,F,596,2023-06-30,Été,,20,604,65.0,130.0,Lake Dawn,Louisiana,Martinique
+68,1937,M,636,2023-07-16,Été,,13,388,94.0,94.0,Lake Dawn,Louisiana,Martinique
+68,1937,M,636,2023-07-16,Été,,13,390,34.0,102.0,Lake Dawn,Louisiana,Martinique
+68,1937,M,636,2023-07-16,Été,,18,545,20.0,20.0,Lake Dawn,Louisiana,Martinique
+68,1937,M,636,2023-07-16,Été,,21,636,36.0,108.0,Lake Dawn,Louisiana,Martinique
+68,1937,M,636,2023-07-16,Été,,25,750,91.0,273.0,Lake Dawn,Louisiana,Martinique
+109,1968,F,764,2023-06-02,Été,,15,451,55.0,165.0,Lake Dawn,Louisiana,Martinique
+109,1968,F,764,2023-06-02,Été,,16,479,7.0,21.0,Lake Dawn,Louisiana,Martinique
+113,1972,M,775,2023-01-24,Hiver,,2,37,78.88,236.64,Lake Dawn,Louisiana,Martinique
+113,1972,M,775,2023-01-24,Hiver,,8,247,33.0,33.0,Lake Dawn,Louisiana,Martinique
+113,1972,M,775,2023-01-24,Hiver,,17,504,41.0,123.0,Lake Dawn,Louisiana,Martinique
+113,1972,M,775,2023-01-24,Hiver,,17,512,1.0,2.0,Lake Dawn,Louisiana,Martinique
+113,1972,M,775,2023-01-24,Hiver,,23,684,42.0,42.0,Lake Dawn,Louisiana,Martinique
+122,1996,M,803,2023-01-09,Hiver,,12,339,56.0,56.0,Lake Dawn,Louisiana,Martinique
+122,1996,M,803,2023-01-09,Hiver,,14,411,33.0,33.0,Lake Dawn,Louisiana,Martinique
+71,1943,F,641,2023-09-11,Automne,,20,602,33.0,33.0,Taylortown,Oregon,San Marino
+71,1943,F,641,2023-09-11,Automne,,21,632,71.0,71.0,Taylortown,Oregon,San Marino
+104,1969,M,747,2023-10-17,Automne,,2,49,50.0,100.0,Taylortown,Oregon,San Marino
+104,1969,M,747,2023-10-17,Automne,,6,170,56.0,56.0,Taylortown,Oregon,San Marino
+104,1969,M,747,2023-10-17,Automne,,13,388,94.0,94.0,Taylortown,Oregon,San Marino
+114,2000,F,777,2023-01-09,Hiver,,2,28,68.98,206.94,Taylortown,Oregon,San Marino
+114,2000,F,777,2023-01-09,Hiver,,12,367,5.0,10.0,Taylortown,Oregon,San Marino
+114,2000,F,777,2023-01-09,Hiver,,16,472,41.0,82.0,Taylortown,Oregon,San Marino
+120,1976,M,793,2023-04-19,Printemps,,3,81,84.0,252.0,Taylortown,Oregon,San Marino
+120,1976,M,793,2023-04-19,Printemps,,14,407,33.0,33.0,Taylortown,Oregon,San Marino
+120,1976,M,793,2023-04-19,Printemps,,14,414,43.0,86.0,Taylortown,Oregon,San Marino
+120,1976,M,793,2023-04-19,Printemps,,18,533,90.0,270.0,Taylortown,Oregon,San Marino
+28,1933,M,512,2023-07-08,Été,,15,438,73.0,219.0,Madisonmouth,Georgia,Portugal
+28,1933,M,512,2023-07-08,Été,,22,655,22.0,66.0,Madisonmouth,Georgia,Portugal
+28,1933,M,512,2023-07-08,Été,,24,708,23.0,69.0,Madisonmouth,Georgia,Portugal
+73,1982,F,649,2023-07-22,Été,,2,56,88.0,264.0,Madisonmouth,Georgia,Portugal
+73,1982,F,649,2023-07-22,Été,,6,161,86.0,172.0,Madisonmouth,Georgia,Portugal
+123,1942,F,809,2023-07-14,Été,,3,74,87.0,87.0,Madisonmouth,Georgia,Portugal
+123,1942,F,809,2023-07-14,Été,,10,291,98.0,294.0,Madisonmouth,Georgia,Portugal
+123,1942,F,809,2023-07-14,Été,,19,552,13.0,26.0,Madisonmouth,Georgia,Portugal
+123,1942,F,809,2023-07-14,Été,,24,719,74.0,148.0,Madisonmouth,Georgia,Portugal
+123,1942,F,809,2023-07-14,Été,,25,735,59.0,177.0,Madisonmouth,Georgia,Portugal
+42,1940,M,556,2023-05-28,Printemps,,17,517,3.0,3.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+69,1937,F,639,2023-08-14,Été,,13,397,96.0,288.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+69,1937,F,639,2023-08-14,Été,,18,523,21.0,63.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+69,1937,F,639,2023-08-14,Été,,21,617,17.0,51.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+69,1937,F,639,2023-08-14,Été,,25,730,79.0,158.0,North Janiceborough,Connecticut,Saint Kitts and Nevis
+69,1937,F,639,2023-08-14,Été,,25,739,97.0,194.0,North Janiceborough,Connecticut,Saint Kitts and Nevis

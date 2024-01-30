@@ -1,14 +1,7 @@
 import mysql.connector
 from faker import Faker
+from sql import get_cursor
 
-def get_cursor():
-    connection = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="MatCha"
-    )
-    return connection.cursor(buffered=True), connection
 
 def insert_equipments():
     cursor, connection = get_cursor()
@@ -19,7 +12,7 @@ def insert_equipments():
     sports_ids = range(2, 26)  # Example range, replace with actual sport ids
 
     for sport_id in sports_ids:
-        for _ in range(30):  # Generate 30 equipments for each sport
+        for _ in range(20):  # Generate n equipments for each sport
             nom = faker.word()
             description = faker.text()
             prix = faker.random_number(digits=2)

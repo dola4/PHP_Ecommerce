@@ -3,14 +3,8 @@ from faker import Faker
 import random
 import datetime
 
-def get_cursor():
-    connection = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="Matcha"
-    )
-    return connection.cursor(buffered=True), connection
+from sql import get_cursor
+
 
 
 def get_equipement_price(cursor, equipement_id):
@@ -46,10 +40,10 @@ def insert_orders():
 
     user_ids = get_valid_ids(cursor, "user")
     adresse_ids = get_valid_ids(cursor, "adresse")
-    equipement_ids = get_valid_ids(cursor, "equipement")  # Récupération des IDs d'équipement
+    equipement_ids = get_valid_ids(cursor, "equipement")  
 
     for user_id in user_ids:
-        for _ in range(random.randint(1, 5)):
+        for _ in range(random.randint(1, 25)): # random command number between 1 and 20 for each users
             adresse_id = random.choice(adresse_ids)
             date_commande = faker.date_between(start_date=datetime.date(2023, 1, 1), end_date=datetime.date(2023, 12, 31))
 
