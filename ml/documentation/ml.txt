@@ -17,11 +17,6 @@ textuelles en valeurs numériques, facilitant leur traitement par des algorithme
 - Encodage des colonnes catégorielles : Chaque colonne catégorielle est encodée en utilisant les encodeurs 
 définis précédemment.
 
- Détermination de la saison à partir des dates
-- Le script recalculait initialement la saison pour chaque commande, ce qui semble redondant étant donné 
-que cette transformation a déjà été appliquée lors de la création du jeu de données. Cela pourrait 
-indiquer une étape de prétraitement inutile ou une erreur dans la séquence des opérations.
-
  Sélection des caractéristiques et de la cible
 - Les caractéristiques sélectionnées pour l'entraînement incluent `user_id`, `age`, `sexe_user`, 
 `sexe_equipement`, `saison`, `ville`, `province`, et `pays`.

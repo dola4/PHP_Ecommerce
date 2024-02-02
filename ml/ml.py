@@ -28,9 +28,6 @@ encoders = {
 for col, encoder in encoders.items():
     df[col] = encoder.fit_transform(df[col])
 
-# Déterminer la saison à partir de la date
-df['saison'] = df['date_commande'].apply(lambda x: 'Hiver' if x.month in [12, 1, 2] else 'Printemps' if x.month in [3, 4, 5] else 'Été' if x.month in [6, 7, 8] else 'Automne')
-df['saison'] = encoders['saison'].fit_transform(df['saison'])
 
 # Sélectionner les colonnes pour l'entrainement et la cible
 X = df[['user_id', 'age', 'sexe_user', 'sexe_equipement', 'saison', 'ville', 'province', 'pays']]
