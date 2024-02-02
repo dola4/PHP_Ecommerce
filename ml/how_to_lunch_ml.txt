@@ -1,0 +1,13 @@
+1. Installation des dépendances
+Installez les dépendances spécifiées dans le fichier requirements.txt :
+
+'''
+pip install -r requirements.txt
+'''
+
+2. Exécution du script
+Une fois les dépendances installées, exécutez le script ml.py :
+
+'''
+python ml.py
+'''
