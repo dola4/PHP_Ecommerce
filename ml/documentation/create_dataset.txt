@@ -1,0 +1,39 @@
+Le fichier 'createDataset' fait partie d'un processus de préparation de données pour une application de 
+commerce électronique avec une composante d'apprentissage machine (ML). Il illustre comment extraire, transformer 
+et sauvegarder des données depuis une base de données relationnelle pour les utiliser dans des tâches ML. 
+Voici une explication détaillée de ce que réalise ce fichier :
+
+1. Importation des bibliothèques nécessaires :
+   - `sql`: Ce module contient la fonction `get_cursor` utilisée pour obtenir un curseur et une connexion à la
+   base de données.
+   - `pandas`: Une bibliothèque pour la manipulation et l'analyse de données en Python.
+
+2. Définition de la fonction `fetch_data` :
+   - Cette fonction est responsable de l'extraction des données nécessaires à partir de la base de données. 
+   Elle utilise la fonction `get_cursor` pour obtenir un curseur et une connexion à la base de données.
+   - La requête SQL sélectionne un ensemble de colonnes pertinentes pour l'application ML depuis plusieurs 
+   tables (`commandeequipement`, `commande`, `user`, `equipement`, `adresse`). Elle inclut des informations sur 
+   les utilisateurs, les commandes, les équipements commandés, et l'adresse de livraison.
+   - Les colonnes sélectionnées comprennent l'identifiant de l'utilisateur, son âge, son sexe, l'identifiant de 
+   la commande, la date de la commande, la saison dérivée de la date de la commande, les identifiants de 
+   catégorie et de sport de l'équipement, l'identifiant de l'équipement, le prix de l'équipement, le sexe 
+   associé à l'équipement, le montant total de la commande, et des détails d'adresse.
+   - La requête utilise un `CASE` pour déterminer la saison en fonction du mois de la commande.
+   - Les résultats de la requête sont stockés dans un DataFrame `pandas`, utilisant la fonction `read_sql`.
+   - La connexion à la base de données est fermée après l'extraction des données.
+
+3. Définition de la fonction `save_to_csv` :
+   - Cette fonction prend un DataFrame et un nom de fichier (avec une valeur par défaut) comme arguments.
+   - Elle sauvegarde le DataFrame dans un fichier CSV sans inclure l'index du DataFrame.
+   - Un message indiquant la création réussie du fichier est affiché.
+
+4. Bloc d'exécution principale :
+   - Si le fichier est exécuté comme script principal, il appelle la fonction `fetch_data` pour extraire les 
+   données, puis sauvegarde ces données dans un fichier CSV nommé `MatchaV1.4.csv` en utilisant la fonction 
+   `save_to_csv`.
+
+Cette approche de préparation des données est essentielle dans le processus de développement d'applications ML. 
+Elle permet de transformer les données stockées dans une base de données relationnelle en un format adapté pour 
+l'entraînement et l'évaluation de modèles d'apprentissage machine. La sauvegarde des données extraites dans un 
+fichier CSV facilite également leur manipulation ultérieure et leur réutilisation pour différents besoins 
+d'analyse et de modélisation.

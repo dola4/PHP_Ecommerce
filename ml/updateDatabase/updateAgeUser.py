@@ -15,8 +15,6 @@ def update_user_ages():
         # Générer une année aléatoire entre 1925 et 2006
         birth_year = randint(1925, 2006)
 
-        # Calculer l'âge en se basant sur l'année actuelle
-        # Remplacer par la logique appropriée si l'âge doit être calculé autrement
         age = birth_year
 
         # Mise à jour de l'âge dans la base de données

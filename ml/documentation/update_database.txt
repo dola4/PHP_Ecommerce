@@ -1,0 +1,27 @@
+Ces scripts Python interagissent avec la base de données pour effectuer diverses opérations de mise à jour sur 
+les données des utilisateurs et des équipements, dans le but d'élargir la quantité de données disponibles pour 
+l'apprentissage automatique. Voici une description détaillée de ce que chaque fichier réalise :
+
+1. Script pour la mise à jour des âges des utilisateurs (`update_user_ages`)
+Ce script récupère les identifiants de tous les utilisateurs dans la base de données, 
+puis pour chaque utilisateur, génère aléatoirement une année de naissance entre 1925 et 2006. L'âge est calculé 
+comme étant l'année de naissance elle-même. Finalement, les modifications sont enregistrées (commit) et la 
+connexion à la base de données est fermée.
+
+2. Script pour l'ajout et la mise à jour de la colonne sexe dans la table équipement 
+(`add_and_update_sexe_column` pour `equipement`) Ce script ajoute une nouvelle colonne `sexe` à la table 
+`equipement` si elle n'existe pas déjà, avec une valeur par défaut 'U' (unisexe). Ensuite, il récupère les 
+identifiants de tous les équipements et met à jour le sexe pour chaque équipement avec une valeur choisie 
+aléatoirement entre 'M' (masculin), 'F' (féminin), et 'U' (unisexe). Les modifications sont ensuite enregistrées 
+et la connexion est fermée.
+
+3. Script pour l'ajout et la mise à jour de la colonne sexe dans la table utilisateur 
+(`add_and_update_sexe_column` pour `user`) Similairement au script précédent mais appliqué à la 
+table `user`, ce script ajoute une colonne `sexe` à la table `user` avec une valeur par défaut 'M' (masculin). 
+Il met à jour cette colonne pour chaque utilisateur en choisissant aléatoirement entre 'M' (masculin) et 'F' 
+(féminin). Comme dans les autres scripts, les modifications sont enregistrées et la connexion est fermée.
+
+4. Script pour la mise à jour du stock des équipements (`update_equipement_stock`)
+Ce script récupère les identifiants de tous les équipements et met à jour leur stock avec une valeur aléatoire 
+comprise entre 3 et 100. Cette opération simule une mise à jour du stock disponible pour chaque équipement dans 
+la base de données. Après la mise à jour, les modifications sont enregistrées et la connexion est fermée.
