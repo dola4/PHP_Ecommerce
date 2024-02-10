@@ -1,0 +1,60 @@
+- `streamlit` pour la création d'applications web (bien qu'il ne soit pas directement utilisé dans le code fourni).
+- `torch` pour construire et entraîner des modèles de réseaux de neurones.
+- `torch.nn` pour les composants de réseaux de neurones.
+- `torch.optim` pour les optimisateurs.
+- `sklearn.metrics` pour calculer les métriques de performance du modèle.
+- `sklearn.model_selection` pour diviser les données en ensembles d'entraînement et de test.
+- `sklearn.preprocessing` pour la normalisation et l'encodage des labels.
+- `torch.utils.data` pour charger les données et les préparer pour l'entraînement.
+
+ Fonction `predict_product`
+
+Cette fonction prédit un produit (identifié par un ID) basé sur des caractéristiques utilisateur 
+fournies. Elle prend en entrée :
+- Un modèle PyTorch (`model`).
+- Un objet de mise à l'échelle (`scaler`) pour normaliser les caractéristiques.
+- Plusieurs objets `LabelEncoder` pour transformer les valeurs catégorielles en numériques.
+- Un dictionnaire `features` contenant les caractéristiques de l'utilisateur.
+
+La fonction transforme les caractéristiques catégorielles en utilisant les `LabelEncoder`, 
+normalise les caractéristiques numériques avec le `scaler`, puis utilise le modèle pour prédire l'ID du 
+produit recommandé.
+
+ Fonction `ml_product`
+
+Cette fonction orchestre le processus de chargement des données, de prétraitement, 
+d'entraînement du modèle, et d'évaluation. Voici les étapes principales :
+
+1. Chargement des données : Le jeu de données est chargé à partir d'un fichier CSV.
+
+2. Prétraitement : Les colonnes catégorielles sont transformées en valeurs numériques en 
+utilisant `LabelEncoder`. Les caractéristiques sont ensuite normalisées avec `StandardScaler`.
+
+3. Sélection des caractéristiques et de la cible : Les caractéristiques sont sélectionnées et la cible 
+(`id_equipement`) est séparée.
+
+4. Division des données : Les données sont divisées en ensembles d'entraînement et de test.
+
+5. Définition du modèle : Un modèle de réseau de neurones est défini avec une architecture simple composée 
+de trois couches linéaires et des activations ReLU.
+
+6. Entraînement du modèle : Le modèle est entraîné en utilisant une fonction de perte MSE et un optimiseur Adam.
+
+7. Évaluation du modèle : Le modèle est évalué sur l'ensemble de test pour calculer 
+le MSE et le coefficient de détermination (R²).
+
+La fonction `ml_profit` renvoie le modèle entraîné, l'objet de mise à l'échelle, les objets 
+`LabelEncoder`, et les métriques d'évaluation.
+
+ Architecture du modèle `Net`
+
+Le modèle `Net` est une classe qui hérite de `nn.Module`. Il est composé de trois couches linéaires 
+(`fc1`, `fc2`, `fc3`) avec des activations ReLU entre les couches pour introduire de la non-linéarité. 
+La dernière couche produit la sortie sans activation, adaptée à des tâches de régression.
+
+ Utilisation
+
+- Exécuter la fonction `ml_profit` pour entraîner le modèle et obtenir les encodeurs et le scaler pour les 
+prédictions futures.
+- Utiliser la fonction `predict_product` avec un modèle entraîné, les encodeurs, le scaler, et 
+des caractéristiques utilisateur pour prédire l'ID d'un produit recommandé.
