@@ -38,10 +38,10 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 # Dictionnaire des modèles
 models = {
-    'Decision Tree': DecisionTreeClassifier(),
+    #'Decision Tree': DecisionTreeClassifier(),
     'Random Forest': RandomForestClassifier(),
-    'SVM': SVC(),
-    'KNN': KNeighborsClassifier()
+    #'SVM': SVC(),
+    #'KNN': KNeighborsClassifier()
 }
 
 # Entraînement et évaluation de chaque modèle
@@ -65,5 +65,5 @@ def make_recommendation(model, user_id, current_date, current_saison):
 
 # Exemple d'utilisation pour chaque modèle
 for name, model in models.items():
-    recommended_equipement = make_recommendation(model, 22, '2024-01-30', 'Hiver')
-    print(f"Produit recommandé pour l'utilisateur 22 avec {name}:", recommended_equipement)
+    recommended_equipement = make_recommendation(model, 56, '2024-01-30', 'Hiver')
+    print(f"Produit recommandé pour l'utilisateur 56 avec {name}:", recommended_equipement)

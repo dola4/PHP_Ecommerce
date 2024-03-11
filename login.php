@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $request->setSql('SELECT * FROM User WHERE email = :email');
     $userData = $request->getLines($conn, ['email' => $email], true);
 
-    if ($email == $userData['email'] && password_verify($password, $userData['pw'])) {
+    if ($email == $userData['email'] && $password == $userData['pw']) {
 
         
         $userObject = new User($userData['id'], $userData['nom'], $userData['prenom'], $userData['age'], $userData['email'], $userData['pw'], $userData['sexe']);
